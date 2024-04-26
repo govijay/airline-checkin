@@ -1,0 +1,844 @@
+Starting check-in process
+All seats cleared
+Processing concurrently
+Processing user: 12 Olivia Harris
+Processing user: 9 Daniel Martinez
+Processing user: 14 Emma Lewis
+Finding unassigned seat by thread: T9
+Processing user: 5 Christopher Lee
+Finding unassigned seat by thread: T5
+Processing user: 18 Sophia White
+Finding unassigned seat by thread: T18
+Processing user: 11 David Thomas
+Processing user: 8 Jennifer Taylor
+Finding unassigned seat by thread: T8
+Processing user: 3 Michael Johnson
+Processing user: 17 William Young
+Finding unassigned seat by thread: T17
+Processing user: 16 Ava Hall
+Finding unassigned seat by thread: T16
+Processing user: 19 Joseph Martin
+Finding unassigned seat by thread: T19
+Processing user: 10 Sarah Anderson
+Processing user: 13 James Clark
+Finding unassigned seat by thread: T13
+Processing user: 23 Andrew Wright
+Finding unassigned seat by thread: T23
+Finding unassigned seat by thread: T11
+Processing user: 15 Robert Walker
+Processing user: 24 Abigail Hill
+Finding unassigned seat by thread: T24
+Processing user: 6 Jessica Davis
+Finding unassigned seat by thread: T6
+Processing user: 4 Emily Brown
+Processing user: 26 Elizabeth Green
+Finding unassigned seat by thread: T26
+Processing user: 1 John Doe
+Finding unassigned seat by thread: T1
+Finding unassigned seat by thread: T12
+Finding unassigned seat by thread: T14
+Processing user: 2 Jane Smith
+Finding unassigned seat by thread: T2
+Processing user: 7 Matthew Wilson
+Finding unassigned seat by thread: T7
+Processing user: 27 Ryan Baker
+Finding unassigned seat by thread: T27
+Finding unassigned seat by thread: T4
+Processing user: 25 Anthony Scott
+Finding unassigned seat by thread: T25
+Finding unassigned seat by thread: T15
+Finding unassigned seat by thread: T10
+Processing user: 30 Victoria Mitchell
+Finding unassigned seat by thread: T30
+Processing user: 22 Madison King
+Finding unassigned seat by thread: T22
+Processing user: 20 Chloe Allen
+Finding unassigned seat by thread: T20
+Processing user: 21 Charles Garcia
+Finding unassigned seat by thread: T21
+Finding unassigned seat by thread: T3
+Processing user: 32 Alyssa Roberts
+Finding unassigned seat by thread: T32
+Processing user: 31 Matthew Perez
+Processing user: 33 Joshua Turner
+Finding unassigned seat by thread: T33
+Processing user: 29 Nicholas Nelson
+Processing user: 34 Natalie Carter
+Finding unassigned seat by thread: T34
+Processing user: 28 Grace Adams
+Finding unassigned seat by thread: T28
+Finding unassigned seat by thread: T29
+Finding unassigned seat by thread: T31
+Processing user: 37 Justin Sanchez
+Finding unassigned seat by thread: T37
+Processing user: 36 Lauren Evans
+Finding unassigned seat by thread: T36
+Processing user: 39 Brandon Cooper
+Finding unassigned seat by thread: T39
+Processing user: 35 Kevin Phillips
+Finding unassigned seat by thread: T35
+Processing user: 38 Hannah Rivera
+Finding unassigned seat by thread: T38
+Processing user: 40 Zoe Reed
+Finding unassigned seat by thread: T40
+Processing user: 41 Jason Torres
+Finding unassigned seat by thread: T41
+Processing user: 42 Mia Ortiz
+Finding unassigned seat by thread: T42
+Processing user: 43 Brian Morales
+Finding unassigned seat by thread: T43
+Processing user: 44 Sophie Russell
+Finding unassigned seat by thread: T44
+Processing user: 45 Samuel Coleman
+Finding unassigned seat by thread: T45
+Processing user: 46 Lily Peterson
+Finding unassigned seat by thread: T46
+Processing user: 47 Tyler Gray
+Finding unassigned seat by thread: T47
+Processing user: 48 Avery Bell
+Finding unassigned seat by thread: T48
+Processing user: 49 Alexander Diaz
+Finding unassigned seat by thread: T49
+Processing user: 50 Ella Jenkins
+Finding unassigned seat by thread: T50
+Processing user: 51 Benjamin Hughes
+Finding unassigned seat by thread: T51
+Processing user: 52 Charlotte Coleman
+Finding unassigned seat by thread: T52
+Processing user: 53 Gabriel Washington
+Finding unassigned seat by thread: T53
+Processing user: 54 Makayla Long
+Finding unassigned seat by thread: T54
+Processing user: 55 Christopher Foster
+Finding unassigned seat by thread: T55
+Processing user: 56 Samantha Brooks
+Finding unassigned seat by thread: T56
+Processing user: 57 Caleb Ward
+Finding unassigned seat by thread: T57
+Processing user: 58 Avery Fisher
+Finding unassigned seat by thread: T58
+Processing user: 59 Austin Reed
+Finding unassigned seat by thread: T59
+Processing user: 60 Katherine Price
+Finding unassigned seat by thread: T60
+Processing user: 61 Logan Butler
+Finding unassigned seat by thread: T61
+Processing user: 62 Madeline Ross
+Finding unassigned seat by thread: T62
+Processing user: 63 Justin Richardson
+Finding unassigned seat by thread: T63
+Processing user: 64 Sydney Patterson
+Finding unassigned seat by thread: T64
+Processing user: 65 Dylan Howard
+Finding unassigned seat by thread: T65
+Processing user: 66 Brooklyn Cooper
+Finding unassigned seat by thread: T66
+Processing user: 67 Jordan Stewart
+Finding unassigned seat by thread: T67
+Processing user: 68 Claire Perry
+Finding unassigned seat by thread: T68
+Processing user: 69 Aaron Jenkins
+Finding unassigned seat by thread: T69
+Processing user: 70 Isabella Ward
+Finding unassigned seat by thread: T70
+Processing user: 71 Nathan Rivera
+Finding unassigned seat by thread: T71
+Processing user: 72 Haley Campbell
+Finding unassigned seat by thread: T72
+Processing user: 73 Christian Bryant
+Finding unassigned seat by thread: T73
+Processing user: 74 Morgan Mitchell
+Finding unassigned seat by thread: T74
+Processing user: 75 Juan Cox
+Finding unassigned seat by thread: T75
+Processing user: 76 Taylor Ward
+Finding unassigned seat by thread: T76
+Processing user: 77 Blake Murphy
+Finding unassigned seat by thread: T77
+Processing user: 78 Alexandra Gonzales
+Finding unassigned seat by thread: T78
+Processing user: 79 Cameron Taylor
+Finding unassigned seat by thread: T79
+Processing user: 80 Paige Brooks
+Finding unassigned seat by thread: T80
+Processing user: 81 Adrian Powell
+Finding unassigned seat by thread: T81
+Processing user: 82 Savannah James
+Finding unassigned seat by thread: T82
+Processing user: 83 Zachary Evans
+Finding unassigned seat by thread: T83
+Processing user: 84 Julia Coleman
+Finding unassigned seat by thread: T84
+Processing user: 85 Kyle Russell
+Finding unassigned seat by thread: T85
+Processing user: 86 Leah Barnes
+Finding unassigned seat by thread: T86
+Processing user: 87 Connor Wright
+Finding unassigned seat by thread: T87
+Processing user: 88 Rebecca Allen
+Finding unassigned seat by thread: T88
+Processing user: 89 Lucas Green
+Finding unassigned seat by thread: T89
+Processing user: 90 Kennedy Stewart
+Finding unassigned seat by thread: T90
+Processing user: 91 Mason Flores
+Finding unassigned seat by thread: T91
+Processing user: 92 Isabelle Ramirez
+Finding unassigned seat by thread: T92
+Processing user: 93 Bryan King
+Finding unassigned seat by thread: T93
+Processing user: 94 Hailey Watson
+Finding unassigned seat by thread: T94
+Processing user: 95 Gabriel Adams
+Finding unassigned seat by thread: T95
+Processing user: 96 Makayla Lopez
+Finding unassigned seat by thread: T96
+Processing user: 97 Evan Sanders
+Finding unassigned seat by thread: T97
+Processing user: 98 Destiny Cox
+Finding unassigned seat by thread: T98
+Processing user: 99 Jordan Hughes
+Finding unassigned seat by thread: T99
+Processing user: 100 Amanda Martinez
+Finding unassigned seat by thread: T100
+Processing user: 101 Adam Bailey
+Finding unassigned seat by thread: T101
+Processing user: 102 Gabriella Henderson
+Finding unassigned seat by thread: T102
+Processing user: 103 Jaden Parker
+Finding unassigned seat by thread: T103
+Processing user: 104 Nicole Edwards
+Finding unassigned seat by thread: T104
+Processing user: 105 Carter Richardson
+Finding unassigned seat by thread: T105
+Processing user: 106 Maria Howard
+Finding unassigned seat by thread: T106
+Processing user: 107 Jack Kelly
+Finding unassigned seat by thread: T107
+Processing user: 108 Riley Wood
+Finding unassigned seat by thread: T108
+Processing user: 109 Dylan Price
+Finding unassigned seat by thread: T109
+Processing user: 110 Maya Murphy
+Finding unassigned seat by thread: T110
+Processing user: 111 Brayden Nelson
+Finding unassigned seat by thread: T111
+Processing user: 112 Vanessa Thomas
+Finding unassigned seat by thread: T112
+Processing user: 113 Owen Cooper
+Finding unassigned seat by thread: T113
+Processing user: 114 Kylie Jackson
+Finding unassigned seat by thread: T114
+Processing user: 115 Tristan Ward
+Finding unassigned seat by thread: T115
+Processing user: 116 Faith Morgan
+Finding unassigned seat by thread: T116
+Processing user: 117 Dominic Martinez
+Finding unassigned seat by thread: T117
+Processing user: 118 Allison Brooks
+Finding unassigned seat by thread: T118
+Processing user: 119 Colton Gray
+Finding unassigned seat by thread: T119
+Processing user: 120 Leah Foster
+Finding unassigned seat by thread: T120
+Unassigned seat: 1A found
+Assigning seat: 1A to user: William Young
+Saving seat by thread: T17
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Ava Hall
+Saving seat by thread: T16
+Unassigned seat: 1A found
+Unassigned seat: 1A found
+Assigning seat: 1A to user: James Clark
+Saving seat by thread: T13
+Unassigned seat: 1A found
+Assigning seat: 1A to user: David Thomas
+Saving seat by thread: T11
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Abigail Hill
+Assigning seat: 1A to user: Jennifer Taylor
+Saving seat by thread: T8
+Saving seat by thread: T24
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Elizabeth Green
+Saving seat by thread: T26
+Unassigned seat: 1A found
+Unassigned seat: 1A found
+Seat assigned1A to user: Ava Hall
+
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Emma Lewis
+Unassigned seat: 1A found
+Saving seat by thread: T14
+Assigning seat: 1A to user: Jane Smith
+Saving seat by thread: T2
+Assigning seat: 1A to user: John Doe
+Saving seat by thread: T1
+Assigning seat: 1A to user: Olivia Harris
+Saving seat by thread: T12
+Seat assigned1A to user: Elizabeth Green
+
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Emily Brown
+Saving seat by thread: T4
+Unassigned seat: 1B found
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Sarah Anderson
+Saving seat by thread: T10
+Assigning seat: 1B to user: Matthew Wilson
+Saving seat by thread: T7
+Seat assigned1A to user: Emily Brown
+
+Unassigned seat: 1A found
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Victoria Mitchell
+Saving seat by thread: T30
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Madison King
+Saving seat by thread: T22
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Chloe Allen
+Saving seat by thread: T20
+Assigning seat: 1A to user: Charles Garcia
+Saving seat by thread: T21
+Unassigned seat: 1A found
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Michael Johnson
+Saving seat by thread: T3
+Assigning seat: 1A to user: Alyssa Roberts
+Saving seat by thread: T32
+Seat assigned1A to user: Victoria Mitchell
+
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Grace Adams
+Saving seat by thread: T28
+Unassigned seat: 1A found
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Lauren Evans
+Saving seat by thread: T36
+Unassigned seat: 1A found
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Matthew Perez
+Saving seat by thread: T31
+Assigning seat: 1A to user: Justin Sanchez
+Saving seat by thread: T37
+Assigning seat: 1A to user: Nicholas Nelson
+Saving seat by thread: T29
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Hannah Rivera
+Saving seat by thread: T38
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Zoe Reed
+Saving seat by thread: T40
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Jason Torres
+Saving seat by thread: T41
+Seat assigned1A to user: Hannah Rivera
+
+Unassigned seat: 1A found
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Sophie Russell
+Saving seat by thread: T44
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Brian Morales
+Saving seat by thread: T43
+Assigning seat: 1A to user: Samuel Coleman
+Saving seat by thread: T45
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Lily Peterson
+Saving seat by thread: T46
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Tyler Gray
+Saving seat by thread: T47
+Seat assigned1A to user: Sophie Russell
+
+Unassigned seat: 1A found
+Unassigned seat: 1A found
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Alexander Diaz
+Saving seat by thread: T49
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Christopher Foster
+Saving seat by thread: T55
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Gabriel Washington
+Saving seat by thread: T53
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Benjamin Hughes
+Saving seat by thread: T51
+Assigning seat: 1A to user: Ella Jenkins
+Saving seat by thread: T50
+Assigning seat: 1A to user: Makayla Long
+Saving seat by thread: T54
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Adam Bailey
+Saving seat by thread: T101
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Caleb Ward
+Saving seat by thread: T57
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Hailey Watson
+Saving seat by thread: T94
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Isabella Ward
+Saving seat by thread: T70
+Unassigned seat: 1B found
+Unassigned seat: 1A found
+Unassigned seat: 1B found
+Assigning seat: 1A to user: Daniel Martinez
+Saving seat by thread: T9
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Avery Fisher
+Saving seat by thread: T58
+Assigning seat: 1B to user: Katherine Price
+Saving seat by thread: T60
+Assigning seat: 1B to user: Samantha Brooks
+Saving seat by thread: T56
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Logan Butler
+Saving seat by thread: T61
+Unassigned seat: 1B found
+Unassigned seat: 1B found
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Austin Reed
+Saving seat by thread: T59
+Assigning seat: 1B to user: Brooklyn Cooper
+Assigning seat: 1B to user: Justin Richardson
+Saving seat by thread: T63
+Saving seat by thread: T66
+Seat assigned1B to user: Logan Butler
+
+Seat assigned1B to user: Isabella Ward
+
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Christian Bryant
+Saving seat by thread: T73
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Juan Cox
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Haley Campbell
+Saving seat by thread: T72
+Saving seat by thread: T75
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Taylor Ward
+Saving seat by thread: T76
+Unassigned seat: 1C found
+Assigning seat: 1C to user: Morgan Mitchell
+Saving seat by thread: T74
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Adrian Powell
+Saving seat by thread: T81
+Seat assigned1B to user: Taylor Ward
+
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Savannah James
+Saving seat by thread: T82
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Zachary Evans
+Saving seat by thread: T83
+Unassigned seat: 1B found
+Unassigned seat: 1B found
+Unassigned seat: 1B found
+Unassigned seat: 1C found
+Assigning seat: 1B to user: Connor Wright
+Saving seat by thread: T87
+Assigning seat: 1B to user: Kyle Russell
+Saving seat by thread: T85
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Lucas Green
+Saving seat by thread: T89
+Assigning seat: 1B to user: Julia Coleman
+Assigning seat: 1C to user: Paige Brooks
+Saving seat by thread: T80
+Saving seat by thread: T84
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Kennedy Stewart
+Saving seat by thread: T90
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Isabelle Ramirez
+Saving seat by thread: T92
+Unassigned seat: 1B found
+Seat assigned1A to user: Caleb Ward
+
+Assigning seat: 1B to user: Gabriel Adams
+Unassigned seat: 1B found
+Unassigned seat: 1B found
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Destiny Cox
+Saving seat by thread: T98
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Evan Sanders
+Saving seat by thread: T95
+Saving seat by thread: T97
+Assigning seat: 1B to user: Jordan Hughes
+Saving seat by thread: T99
+Assigning seat: 1B to user: Makayla Lopez
+Saving seat by thread: T96
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Nicole Edwards
+Saving seat by thread: T104
+Unassigned seat: 1B found
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Jack Kelly
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Carter Richardson
+Saving seat by thread: T105
+Saving seat by thread: T107
+Assigning seat: 1B to user: Maria Howard
+Saving seat by thread: T106
+Unassigned seat: 1C found
+Assigning seat: 1C to user: Jaden Parker
+Saving seat by thread: T103
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Maya Murphy
+Saving seat by thread: T110
+Unassigned seat: 1B found
+Unassigned seat: 1C found
+Assigning seat: 1B to user: Brayden Nelson
+Assigning seat: 1C to user: Riley Wood
+Saving seat by thread: T108
+Saving seat by thread: T111
+Seat assigned1B to user: Maya Murphy
+
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Faith Morgan
+Saving seat by thread: T116
+Unassigned seat: 1B found
+Unassigned seat: 1C found
+Assigning seat: 1B to user: Dominic Martinez
+Assigning seat: 1C to user: Tristan Ward
+Saving seat by thread: T117
+Saving seat by thread: T115
+Seat assigned1A to user: Makayla Long
+
+Seat assigned1A to user: Benjamin Hughes
+
+Seat assigned1A to user: Christopher Foster
+
+Seat assigned1A to user: Tyler Gray
+
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Avery Bell
+Saving seat by thread: T48
+Seat assigned1A to user: Brian Morales
+
+Seat assigned1A to user: Jason Torres
+
+Seat assigned1A to user: Grace Adams
+
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Brandon Cooper
+Saving seat by thread: T39
+Seat assigned1A to user: Nicholas Nelson
+
+Seat assigned1A to user: Lauren Evans
+
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Kevin Phillips
+Saving seat by thread: T35
+Seat assigned1A to user: Alyssa Roberts
+
+Seat assigned1A to user: Charles Garcia
+
+Unassigned seat: 1A found
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Natalie Carter
+Saving seat by thread: T34
+Assigning seat: 1A to user: Joshua Turner
+Saving seat by thread: T33
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Anthony Scott
+Saving seat by thread: T25
+Seat assigned1A to user: Olivia Harris
+
+Unassigned seat: 1A found
+Seat assigned1A to user: Jane Smith
+
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Andrew Wright
+Assigning seat: 1A to user: Jessica Davis
+Saving seat by thread: T6
+Saving seat by thread: T23
+Seat assigned1A to user: Abigail Hill
+
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Joseph Martin
+Saving seat by thread: T19
+Seat assigned1A to user: William Young
+
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Christopher Lee
+Saving seat by thread: T5
+Seat assigned1A to user: James Clark
+
+Seat assigned1A to user: Jessica Davis
+
+Seat assigned1A to user: Andrew Wright
+
+Seat assigned1A to user: Emma Lewis
+
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Ryan Baker
+Saving seat by thread: T27
+Seat assigned1A to user: Anthony Scott
+
+Seat assigned1B to user: Matthew Wilson
+
+Unassigned seat: 1C found
+Assigning seat: 1C to user: Robert Walker
+Saving seat by thread: T15
+Seat assigned1A to user: Madison King
+
+Seat assigned1A to user: Chloe Allen
+
+Seat assigned1A to user: Matthew Perez
+
+Unassigned seat: 1A found
+Seat assigned1B to user: Brandon Cooper
+
+Assigning seat: 1A to user: Mia Ortiz
+Saving seat by thread: T42
+Seat assigned1A to user: Zoe Reed
+
+Unassigned seat: 1C found
+Assigning seat: 1C to user: Colton Gray
+Seat assigned1A to user: Samuel Coleman
+
+Saving seat by thread: T119
+Seat assigned1A to user: Alexander Diaz
+
+Unassigned seat: 1B found
+Seat assigned1B to user: Dominic Martinez
+
+Assigning seat: 1B to user: Allison Brooks
+Saving seat by thread: T118
+Seat assigned1B to user: Faith Morgan
+
+Seat assigned1C to user: Riley Wood
+
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Owen Cooper
+Saving seat by thread: T113
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Vanessa Thomas
+Saving seat by thread: T112
+Seat assigned1C to user: Jaden Parker
+
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Dylan Price
+Saving seat by thread: T109
+Seat assigned1B to user: Jack Kelly
+
+Seat assigned1B to user: Nicole Edwards
+
+Unassigned seat: 1C found
+Assigning seat: 1C to user: Amanda Martinez
+Saving seat by thread: T100
+Seat assigned1B to user: Makayla Lopez
+
+Seat assigned1B to user: Evan Sanders
+
+Unassigned seat: 1C found
+Assigning seat: 1C to user: Bryan King
+Seat assigned1B to user: Hailey Watson
+
+Seat assigned1B to user: Adam Bailey
+
+Saving seat by thread: T93
+Unassigned seat: 1C found
+Assigning seat: 1C to user: Leah Barnes
+Saving seat by thread: T86
+Seat assigned1B to user: Kennedy Stewart
+
+Seat assigned1B to user: Julia Coleman
+
+Seat assigned1B to user: Lucas Green
+
+Seat assigned1B to user: Connor Wright
+
+Seat assigned1B to user: Zachary Evans
+
+Unassigned seat: 1B found
+Seat assigned1C to user: Morgan Mitchell
+
+Assigning seat: 1B to user: Blake Murphy
+Saving seat by thread: T77
+Seat assigned1B to user: Juan Cox
+
+Unassigned seat: 1C found
+Assigning seat: 1C to user: Jordan Stewart
+Saving seat by thread: T67
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Nathan Rivera
+Saving seat by thread: T71
+Unassigned seat: 1D found
+Assigning seat: 1D to user: Aaron Jenkins
+Saving seat by thread: T69
+Unassigned seat: 1C found
+Unassigned seat: 1C found
+Assigning seat: 1C to user: Sydney Patterson
+Assigning seat: 1C to user: Dylan Howard
+Saving seat by thread: T65
+Saving seat by thread: T64
+Seat assigned1D to user: Aaron Jenkins
+
+Seat assigned1B to user: Brooklyn Cooper
+
+Seat assigned1B to user: Samantha Brooks
+
+Unassigned seat: 1E found
+Seat assigned1B to user: Austin Reed
+
+Seat assigned1B to user: Avery Fisher
+
+Assigning seat: 1E to user: Madeline Ross
+Saving seat by thread: T62
+Seat assigned1B to user: Justin Richardson
+
+Unassigned seat: 1B found
+Seat assigned1C to user: Sydney Patterson
+
+Assigning seat: 1B to user: Claire Perry
+Saving seat by thread: T68
+Seat assigned1B to user: Nathan Rivera
+
+Seat assigned1B to user: Christian Bryant
+
+Unassigned seat: 1B found
+Seat assigned1B to user: Haley Campbell
+
+Assigning seat: 1B to user: Alexandra Gonzales
+Saving seat by thread: T78
+Seat assigned1B to user: Kyle Russell
+
+Seat assigned1C to user: Paige Brooks
+
+Seat assigned1B to user: Isabelle Ramirez
+
+Seat assigned1B to user: Destiny Cox
+
+Seat assigned1B to user: Gabriel Adams
+
+Seat assigned1C to user: Amanda Martinez
+
+Seat assigned1B to user: Jordan Hughes
+
+Seat assigned1B to user: Dylan Price
+
+Seat assigned1B to user: Carter Richardson
+
+Seat assigned1B to user: Owen Cooper
+
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Kylie Jackson
+Saving seat by thread: T114
+Seat assigned1B to user: Allison Brooks
+
+Seat assigned1C to user: Tristan Ward
+
+Seat assigned1A to user: Ella Jenkins
+
+Seat assigned1A to user: Gabriel Washington
+
+Seat assigned1A to user: Lily Peterson
+
+Seat assigned1A to user: Avery Bell
+
+Seat assigned1A to user: Justin Sanchez
+
+Seat assigned1A to user: Michael Johnson
+
+Seat assigned1A to user: Joshua Turner
+
+Seat assigned1A to user: Sarah Anderson
+
+Seat assigned1C to user: Robert Walker
+
+Seat assigned1A to user: John Doe
+
+Seat assigned1A to user: Jennifer Taylor
+
+Seat assigned1A to user: David Thomas
+
+Seat assigned1A to user: Christopher Lee
+
+Seat assigned1A to user: Ryan Baker
+
+Seat assigned1A to user: Joseph Martin
+
+Seat assigned1A to user: Mia Ortiz
+
+Unassigned seat: 1B found
+Assigning seat: 1B to user: Leah Foster
+Saving seat by thread: T120
+Seat assigned1C to user: Colton Gray
+
+Seat assigned1B to user: Brayden Nelson
+
+Unassigned seat: 1C found
+Seat assigned1B to user: Maria Howard
+
+Assigning seat: 1C to user: Gabriella Henderson
+Saving seat by thread: T102
+Seat assigned1C to user: Bryan King
+
+Seat assigned1C to user: Leah Barnes
+
+Seat assigned1B to user: Savannah James
+
+Seat assigned1B to user: Adrian Powell
+
+Unassigned seat: 1E found
+Assigning seat: 1E to user: Rebecca Allen
+Saving seat by thread: T88
+Seat assigned1C to user: Jordan Stewart
+
+Seat assigned1B to user: Claire Perry
+
+Seat assigned1B to user: Katherine Price
+
+Seat assigned1E to user: Madeline Ross
+
+Seat assigned1A to user: Daniel Martinez
+
+Seat assigned1B to user: Blake Murphy
+
+Unassigned seat: 1D found
+Assigning seat: 1D to user: Mason Flores
+Saving seat by thread: T91
+Unassigned seat: 1D found
+Assigning seat: 1D to user: Cameron Taylor
+Saving seat by thread: T79
+Seat assigned1C to user: Gabriella Henderson
+
+Seat assigned1B to user: Kylie Jackson
+
+Unassigned seat: 1C found
+Seat assigned1A to user: Kevin Phillips
+
+Seat assigned1A to user: Natalie Carter
+
+Unassigned seat: 1A found
+Assigning seat: 1A to user: Sophia White
+Saving seat by thread: T18
+Assigning seat: 1C to user: Charlotte Coleman
+Saving seat by thread: T52
+Seat assigned1B to user: Leah Foster
+
+Seat assigned1B to user: Vanessa Thomas
+
+Seat assigned1C to user: Dylan Howard
+
+Seat assigned1B to user: Alexandra Gonzales
+
+Seat assigned1E to user: Rebecca Allen
+
+Seat assigned1D to user: Mason Flores
+
+Seat assigned1D to user: Cameron Taylor
+
+Seat assigned1A to user: Sophia White
+
+Seat assigned1C to user: Charlotte Coleman
+
+Processing completed in 219 ms

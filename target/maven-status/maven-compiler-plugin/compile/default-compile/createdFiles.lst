@@ -1,7 +1,0 @@
-dto/Seat.class
-dto/User.class
-com/airline/db/ConnectionProvider.class
-com/airline/checkin/processor/ManualProcessor.class
-com/airline/dao/SeatsRepository.class
-com/airline/dao/UserRepository.class
-com/airline/Main.class
