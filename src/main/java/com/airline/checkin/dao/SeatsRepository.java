@@ -46,13 +46,13 @@ public class SeatsRepository {
         ResultSet resultSet = null;
         Seat seat = null;
 
-        try (PreparedStatement unassignedSeat = connection.prepareStatement(unassignedSeatQuery);
-            PreparedStatement updateSeat = connection.prepareStatement(updateSeatQuery)) {
+        try (PreparedStatement unassignedSeatStatement = connection.prepareStatement(unassignedSeatQuery);
+            PreparedStatement updateSeatStatement = connection.prepareStatement(updateSeatQuery)) {
             // begin transaction
             connection.setAutoCommit(false);
             // execute 1. unassigned seat query
-            if (unassignedSeat.execute()) {
-                resultSet = unassignedSeat.getResultSet();
+            if (unassignedSeatStatement.execute()) {
+                resultSet = unassignedSeatStatement.getResultSet();
                 if (resultSet.next()) {
                     seat = new Seat();
                     seat.setId(resultSet.getInt("id"));
@@ -60,10 +60,10 @@ public class SeatsRepository {
                     seat.setFlightId(resultSet.getInt("flight_id"));
                     seat.setUserId(user.getId());
 
-                    updateSeat.setInt(1, user.getId());
-                    updateSeat.setInt(2, seat.getId());
+                    updateSeatStatement.setInt(1, user.getId());
+                    updateSeatStatement.setInt(2, seat.getId());
                     // execute 2. update seat query
-                    updateSeat.executeUpdate();
+                    updateSeatStatement.executeUpdate();
                 } else {
                     System.out.println("No unassigned seats found");
                 }
