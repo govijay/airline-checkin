@@ -48,7 +48,9 @@ public class SeatsRepository {
 
         try (PreparedStatement unassignedSeat = connection.prepareStatement(unassignedSeatQuery);
             PreparedStatement updateSeat = connection.prepareStatement(updateSeatQuery)) {
+            // begin transaction
             connection.setAutoCommit(false);
+            // execute 1. unassigned seat query
             if (unassignedSeat.execute()) {
                 resultSet = unassignedSeat.getResultSet();
                 if (resultSet.next()) {
@@ -60,13 +62,14 @@ public class SeatsRepository {
 
                     updateSeat.setInt(1, user.getId());
                     updateSeat.setInt(2, seat.getId());
+                    // execute 2. update seat query
                     updateSeat.executeUpdate();
                 } else {
                     System.out.println("No unassigned seats found");
                 }
             }
-
             connection.commit();
+            // end transaction
         } catch (SQLException e) {
             e.printStackTrace();
             try {
