@@ -2,7 +2,7 @@ package com.airline;
 
 import com.airline.checkin.processor.ConcurrentCheckInProcessor;
 import com.airline.checkin.processor.Processor;
-import com.airline.dao.SeatsRepository;
+import com.airline.checkin.dao.SeatsRepository;
 
 public class Main {
     public static void main(String[] args) {

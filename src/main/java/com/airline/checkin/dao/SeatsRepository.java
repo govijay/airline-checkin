@@ -1,8 +1,8 @@
-package com.airline.dao;
+package com.airline.checkin.dao;
 
-import com.airline.db.ConnectionProvider;
-import dto.Seat;
-import dto.User;
+import com.airline.checkin.db.ConnectionProvider;
+import com.airline.checkin.dto.Seat;
+import com.airline.checkin.dto.User;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

@@ -1,4 +1,4 @@
-package dto;
+package com.airline.checkin.dto;
 
 public class Seat {
 

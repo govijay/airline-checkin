@@ -1,4 +1,4 @@
-package com.airline.dao;
+package com.airline.checkin.dao;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -7,9 +7,9 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.airline.db.ConnectionProvider;
+import com.airline.checkin.db.ConnectionProvider;
 
-import dto.User;
+import com.airline.checkin.dto.User;
 
 public class UserRepository {
 

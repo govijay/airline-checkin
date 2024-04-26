@@ -1,7 +1,7 @@
 package com.airline.checkin.processor;
 
-import com.airline.dao.SeatsRepository;
-import dto.Seat;
+import com.airline.checkin.dao.SeatsRepository;
+import com.airline.checkin.dto.Seat;
 import java.util.Arrays;
 import java.util.List;
 
