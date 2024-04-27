@@ -10,10 +10,10 @@ public class ConnectionProvider {
         Properties properties = new Properties();
         try {
             properties.load(ConnectionProvider.class.getClassLoader().getResourceAsStream("application.properties"));
-            Class.forName(properties.getProperty("mysql.connection.driver"));
-            String url = properties.getProperty("mysql.connection.url");
-            String user = properties.getProperty("mysql.connection.username");
-            String password = properties.getProperty("mysql.connection.password");
+            Class.forName(properties.getProperty("db.connection.driver"));
+            String url = properties.getProperty("db.connection.url");
+            String user = properties.getProperty("db.connection.username");
+            String password = properties.getProperty("db.connection.password");
             return DriverManager.getConnection(url, user, password);
         } catch (Exception e) {
             e.printStackTrace();

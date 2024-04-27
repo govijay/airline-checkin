@@ -8,6 +8,7 @@ import com.airline.checkin.dto.User;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
 
 public class ConcurrentCheckInProcessor implements Processor{
 
@@ -31,7 +32,18 @@ public class ConcurrentCheckInProcessor implements Processor{
                 }
             });
         }
+
         executorService.shutdown();
+        try {
+            // Wait for all tasks to complete or until the timeout (e.g., 10 seconds)
+            if (!executorService.awaitTermination(10, TimeUnit.SECONDS)) {
+                // Timeout elapsed before all tasks completed
+                System.out.println("Timeout elapsed before all tasks completed");
+            }
+        } catch (InterruptedException e) {
+            // Handle interruption
+            e.printStackTrace();
+        }
         long endTime = System.currentTimeMillis();
         System.out.println("Processing completed in " + (endTime - startTime) + " ms");
         printSeatAssignments();

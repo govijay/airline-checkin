@@ -1,48 +1,48 @@
 Starting concurrent check-in process
 Processing concurrently
-Booking seat for user 9:Daniel Martinez by thread: pool-1-thread-9
+Booking seat for user 20:Chloe Allen by thread: pool-1-thread-20
+Booking seat for user 4:Emily Brown by thread: pool-1-thread-4
+Booking seat for user 24:Abigail Hill by thread: pool-1-thread-24
+Booking seat for user 2:Jane Smith by thread: pool-1-thread-2
+Booking seat for user 11:David Thomas by thread: pool-1-thread-11
+Booking seat for user 5:Christopher Lee by thread: pool-1-thread-5
 Booking seat for user 27:Ryan Baker by thread: pool-1-thread-27
-Booking seat for user 21:Charles Garcia by thread: pool-1-thread-21
-Booking seat for user 28:Grace Adams by thread: pool-1-thread-28
+Booking seat for user 23:Andrew Wright by thread: pool-1-thread-23
+Booking seat for user 22:Madison King by thread: pool-1-thread-22
+Booking seat for user 12:Olivia Harris by thread: pool-1-thread-12
+Booking seat for user 10:Sarah Anderson by thread: pool-1-thread-10
+Booking seat for user 16:Ava Hall by thread: pool-1-thread-16
+Booking seat for user 14:Emma Lewis by thread: pool-1-thread-14
+Booking seat for user 13:James Clark by thread: pool-1-thread-13
 Booking seat for user 25:Anthony Scott by thread: pool-1-thread-25
+Booking seat for user 29:Nicholas Nelson by thread: pool-1-thread-29
+Booking seat for user 28:Grace Adams by thread: pool-1-thread-28
+Booking seat for user 9:Daniel Martinez by thread: pool-1-thread-9
+Booking seat for user 6:Jessica Davis by thread: pool-1-thread-6
+Booking seat for user 19:Joseph Martin by thread: pool-1-thread-19
+Booking seat for user 21:Charles Garcia by thread: pool-1-thread-21
+Booking seat for user 17:William Young by thread: pool-1-thread-17
+Booking seat for user 1:John Doe by thread: pool-1-thread-1
+Booking seat for user 7:Matthew Wilson by thread: pool-1-thread-7
+Booking seat for user 18:Sophia White by thread: pool-1-thread-18
+Booking seat for user 15:Robert Walker by thread: pool-1-thread-15
 Booking seat for user 26:Elizabeth Green by thread: pool-1-thread-26
 Booking seat for user 3:Michael Johnson by thread: pool-1-thread-3
-Booking seat for user 7:Matthew Wilson by thread: pool-1-thread-7
-Booking seat for user 2:Jane Smith by thread: pool-1-thread-2
-Booking seat for user 4:Emily Brown by thread: pool-1-thread-4
-Booking seat for user 6:Jessica Davis by thread: pool-1-thread-6
-Booking seat for user 22:Madison King by thread: pool-1-thread-22
-Booking seat for user 31:Matthew Perez by thread: pool-1-thread-31
-Booking seat for user 8:Jennifer Taylor by thread: pool-1-thread-8
-Booking seat for user 32:Alyssa Roberts by thread: pool-1-thread-32
-Booking seat for user 15:Robert Walker by thread: pool-1-thread-15
-Booking seat for user 13:James Clark by thread: pool-1-thread-13
-Booking seat for user 18:Sophia White by thread: pool-1-thread-18
-Booking seat for user 30:Victoria Mitchell by thread: pool-1-thread-30
-Booking seat for user 14:Emma Lewis by thread: pool-1-thread-14
 Booking seat for user 34:Natalie Carter by thread: pool-1-thread-34
-Booking seat for user 11:David Thomas by thread: pool-1-thread-11
-Booking seat for user 29:Nicholas Nelson by thread: pool-1-thread-29
-Booking seat for user 16:Ava Hall by thread: pool-1-thread-16
-Booking seat for user 12:Olivia Harris by thread: pool-1-thread-12
-Booking seat for user 37:Justin Sanchez by thread: pool-1-thread-37
-Booking seat for user 23:Andrew Wright by thread: pool-1-thread-23
-Booking seat for user 20:Chloe Allen by thread: pool-1-thread-20
-Booking seat for user 1:John Doe by thread: pool-1-thread-1
-Booking seat for user 10:Sarah Anderson by thread: pool-1-thread-10
-Booking seat for user 5:Christopher Lee by thread: pool-1-thread-5
-Booking seat for user 19:Joseph Martin by thread: pool-1-thread-19
-Booking seat for user 17:William Young by thread: pool-1-thread-17
-Booking seat for user 40:Zoe Reed by thread: pool-1-thread-40
-Booking seat for user 24:Abigail Hill by thread: pool-1-thread-24
-Booking seat for user 39:Brandon Cooper by thread: pool-1-thread-39
-Booking seat for user 38:Hannah Rivera by thread: pool-1-thread-38
-Booking seat for user 36:Lauren Evans by thread: pool-1-thread-36
-Booking seat for user 35:Kevin Phillips by thread: pool-1-thread-35
-Booking seat for user 42:Mia Ortiz by thread: pool-1-thread-42
 Booking seat for user 33:Joshua Turner by thread: pool-1-thread-33
-Booking seat for user 43:Brian Morales by thread: pool-1-thread-43
+Booking seat for user 32:Alyssa Roberts by thread: pool-1-thread-32
+Booking seat for user 31:Matthew Perez by thread: pool-1-thread-31
+Booking seat for user 30:Victoria Mitchell by thread: pool-1-thread-30
+Booking seat for user 8:Jennifer Taylor by thread: pool-1-thread-8
+Booking seat for user 36:Lauren Evans by thread: pool-1-thread-36
+Booking seat for user 37:Justin Sanchez by thread: pool-1-thread-37
+Booking seat for user 38:Hannah Rivera by thread: pool-1-thread-38
+Booking seat for user 35:Kevin Phillips by thread: pool-1-thread-35
+Booking seat for user 39:Brandon Cooper by thread: pool-1-thread-39
+Booking seat for user 40:Zoe Reed by thread: pool-1-thread-40
 Booking seat for user 41:Jason Torres by thread: pool-1-thread-41
+Booking seat for user 42:Mia Ortiz by thread: pool-1-thread-42
+Booking seat for user 43:Brian Morales by thread: pool-1-thread-43
 Booking seat for user 44:Sophie Russell by thread: pool-1-thread-44
 Booking seat for user 45:Samuel Coleman by thread: pool-1-thread-45
 Booking seat for user 46:Lily Peterson by thread: pool-1-thread-46
@@ -99,8 +99,8 @@ Booking seat for user 96:Makayla Lopez by thread: pool-1-thread-96
 Booking seat for user 97:Evan Sanders by thread: pool-1-thread-97
 Booking seat for user 98:Destiny Cox by thread: pool-1-thread-98
 Booking seat for user 99:Jordan Hughes by thread: pool-1-thread-99
-Booking seat for user 101:Adam Bailey by thread: pool-1-thread-101
 Booking seat for user 100:Amanda Martinez by thread: pool-1-thread-100
+Booking seat for user 101:Adam Bailey by thread: pool-1-thread-101
 Booking seat for user 102:Gabriella Henderson by thread: pool-1-thread-102
 Booking seat for user 103:Jaden Parker by thread: pool-1-thread-103
 Booking seat for user 104:Nicole Edwards by thread: pool-1-thread-104
@@ -114,138 +114,138 @@ Booking seat for user 111:Brayden Nelson by thread: pool-1-thread-111
 Booking seat for user 112:Vanessa Thomas by thread: pool-1-thread-112
 Booking seat for user 113:Owen Cooper by thread: pool-1-thread-113
 Booking seat for user 114:Kylie Jackson by thread: pool-1-thread-114
-Booking seat for user 115:Tristan Ward by thread: pool-1-thread-115
 Booking seat for user 116:Faith Morgan by thread: pool-1-thread-116
+Booking seat for user 115:Tristan Ward by thread: pool-1-thread-115
 Booking seat for user 117:Dominic Martinez by thread: pool-1-thread-117
 Booking seat for user 118:Allison Brooks by thread: pool-1-thread-118
 Booking seat for user 119:Colton Gray by thread: pool-1-thread-119
 Booking seat for user 120:Leah Foster by thread: pool-1-thread-120
-Processing completed in 43 ms
-Seat assignments:
-User 7:Matthew Wilson booked seat 1A
-User 6:Jessica Davis booked seat 1A
-User 31:Matthew Perez booked seat 1A
-User 32:Alyssa Roberts booked seat 1B
-User 30:Victoria Mitchell booked seat 1A
-User 34:Natalie Carter booked seat 1A
-User 29:Nicholas Nelson booked seat 1C
-User 12:Olivia Harris booked seat 1A
-User 23:Andrew Wright booked seat 1A
-User 20:Chloe Allen booked seat 1D
 User 19:Joseph Martin booked seat 1A
-User 39:Brandon Cooper booked seat 1A
-User 36:Lauren Evans booked seat 1A
-User 33:Joshua Turner booked seat 1A
-User 43:Brian Morales booked seat 1A
-User 44:Sophie Russell booked seat 1A
-User 47:Tyler Gray booked seat 1A
-User 49:Alexander Diaz booked seat 1E
-User 52:Charlotte Coleman booked seat 1A
-User 54:Makayla Long booked seat 1A
-User 57:Caleb Ward booked seat 1A
-User 58:Avery Fisher booked seat 1A
-User 60:Katherine Price booked seat 1A
-User 63:Justin Richardson booked seat 1F
-User 70:Isabella Ward booked seat 1A
-User 71:Nathan Rivera booked seat 1A
-User 75:Juan Cox booked seat 1A
-User 76:Taylor Ward booked seat 1A
-User 82:Savannah James booked seat 1A
-User 85:Kyle Russell booked seat 1A
-User 86:Leah Barnes booked seat 1A
-User 89:Lucas Green booked seat 1A
-User 92:Isabelle Ramirez booked seat 1A
-User 95:Gabriel Adams booked seat 1A
-User 96:Makayla Lopez booked seat 1A
-User 100:Amanda Martinez booked seat 1A
-User 9:Daniel Martinez booked seat 1A
-User 109:Dylan Price booked seat 1A
-User 108:Riley Wood booked seat 2A
-User 111:Brayden Nelson booked seat 2A
-User 114:Kylie Jackson booked seat 2A
-User 106:Maria Howard booked seat 1A
-User 104:Nicole Edwards booked seat 1A
-User 99:Jordan Hughes booked seat 1A
-User 101:Adam Bailey booked seat 1A
-User 97:Evan Sanders booked seat 1A
 User 94:Hailey Watson booked seat 1A
-User 90:Kennedy Stewart booked seat 1A
-User 87:Connor Wright booked seat 1A
-User 88:Rebecca Allen booked seat 1A
-User 83:Zachary Evans booked seat 1A
-User 80:Paige Brooks booked seat 1A
-User 77:Blake Murphy booked seat 1A
-User 72:Haley Campbell booked seat 1A
-User 73:Christian Bryant booked seat 1A
-User 68:Claire Perry booked seat 1A
-User 65:Dylan Howard booked seat 1A
-User 66:Brooklyn Cooper booked seat 1A
-User 64:Sydney Patterson booked seat 1A
-User 59:Austin Reed booked seat 1A
-User 56:Samantha Brooks booked seat 1A
-User 50:Ella Jenkins booked seat 1A
-User 48:Avery Bell booked seat 1A
-User 41:Jason Torres booked seat 1A
-User 42:Mia Ortiz booked seat 1A
-User 24:Abigail Hill booked seat 1A
-User 40:Zoe Reed booked seat 1A
-User 5:Christopher Lee booked seat 1A
-User 1:John Doe booked seat 1A
-User 37:Justin Sanchez booked seat 1A
-User 11:David Thomas booked seat 1A
-User 13:James Clark booked seat 1A
-User 8:Jennifer Taylor booked seat 1A
-User 2:Jane Smith booked seat 1A
-User 3:Michael Johnson booked seat 1A
-User 27:Ryan Baker booked seat 1A
-User 25:Anthony Scott booked seat 1A
-User 21:Charles Garcia booked seat 1A
-User 26:Elizabeth Green booked seat 1B
-User 22:Madison King booked seat 1A
-User 18:Sophia White booked seat 1A
-User 16:Ava Hall booked seat 1A
-User 17:William Young booked seat 1A
-User 38:Hannah Rivera booked seat 1A
-User 35:Kevin Phillips booked seat 1E
-User 46:Lily Peterson booked seat 1A
-User 51:Benjamin Hughes booked seat 1A
-User 53:Gabriel Washington booked seat 1A
-User 55:Christopher Foster booked seat 1A
-User 67:Jordan Stewart booked seat 1A
-User 74:Morgan Mitchell booked seat 1A
-User 84:Julia Coleman booked seat 1A
-User 81:Adrian Powell booked seat 1A
-User 91:Mason Flores booked seat 1A
-User 102:Gabriella Henderson booked seat 1A
-User 107:Jack Kelly booked seat 1A
-User 119:Colton Gray booked seat 2B
-User 118:Allison Brooks booked seat 2A
-User 115:Tristan Ward booked seat 2A
-User 112:Vanessa Thomas booked seat 2A
-User 103:Jaden Parker booked seat 2A
-User 110:Maya Murphy booked seat 2A
-User 116:Faith Morgan booked seat 2A
-User 117:Dominic Martinez booked seat 2B
-User 105:Carter Richardson booked seat 1A
-User 78:Alexandra Gonzales booked seat 1A
-User 93:Bryan King booked seat 1A
-User 79:Cameron Taylor booked seat 1A
-User 69:Aaron Jenkins booked seat 1A
-User 62:Madeline Ross booked seat 1A
-User 45:Samuel Coleman booked seat 1A
-User 10:Sarah Anderson booked seat 1A
-User 14:Emma Lewis booked seat 1A
-User 4:Emily Brown booked seat 1A
-User 15:Robert Walker booked seat 1A
-User 61:Logan Butler booked seat 1A
-User 98:Destiny Cox booked seat 1A
-User 120:Leah Foster booked seat 2A
-User 113:Owen Cooper booked seat 2A
-User 28:Grace Adams booked seat 1A
-X  X  X  X  X  X  X  -  -  -  -  -  -  -  -  -  -  -  -  -
--  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
--  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
--  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+User 42:Mia Ortiz booked seat 1B
+User 117:Dominic Martinez booked seat 2A
+User 72:Haley Campbell booked seat 6A
+User 58:Avery Fisher booked seat 7F
+User 55:Christopher Foster booked seat 8A
+User 54:Makayla Long booked seat 8B
+User 50:Ella Jenkins booked seat 8D
+User 11:David Thomas booked seat 12A
+User 44:Sophie Russell booked seat 12B
+User 31:Matthew Perez booked seat 12E
+User 35:Kevin Phillips booked seat 13B
+User 8:Jennifer Taylor booked seat 12F
+User 38:Hannah Rivera booked seat 13A
+User 30:Victoria Mitchell booked seat 12F
+User 4:Emily Brown booked seat 12D
+User 33:Joshua Turner booked seat 12C
+User 34:Natalie Carter booked seat 12A
+User 5:Christopher Lee booked seat 11F
+User 2:Jane Smith booked seat 12B
+User 26:Elizabeth Green booked seat 11E
+User 45:Samuel Coleman booked seat 11D
+User 23:Andrew Wright booked seat 11B
+User 46:Lily Peterson booked seat 10F
+User 12:Olivia Harris booked seat 10E
+User 27:Ryan Baker booked seat 11C
+User 16:Ava Hall booked seat 10A
+User 14:Emma Lewis booked seat 9E
+User 47:Tyler Gray booked seat 9F
+User 21:Charles Garcia booked seat 9A
+User 18:Sophia White booked seat 10C
+User 9:Daniel Martinez booked seat 8F
+User 6:Jessica Davis booked seat 8E
+User 10:Sarah Anderson booked seat 10D
+User 7:Matthew Wilson booked seat 10B
+User 52:Charlotte Coleman booked seat 8C
+User 51:Benjamin Hughes booked seat 8C
+User 22:Madison King booked seat 11A
+User 53:Gabriel Washington booked seat 8B
+User 20:Chloe Allen booked seat 8E
+User 25:Anthony Scott booked seat 9B
+User 61:Logan Butler booked seat 7C
+User 62:Madeline Ross booked seat 7B
+User 48:Avery Bell booked seat 9C
+User 13:James Clark booked seat 9D
+User 63:Justin Richardson booked seat 7A
+User 64:Sydney Patterson booked seat 6F
+User 66:Brooklyn Cooper booked seat 6E
+User 60:Katherine Price booked seat 7D
+User 68:Claire Perry booked seat 6D
+User 69:Aaron Jenkins booked seat 6C
+User 59:Austin Reed booked seat 7E
+User 70:Isabella Ward booked seat 6B
+User 73:Christian Bryant booked seat 6A
+User 75:Juan Cox booked seat 5F
+User 71:Nathan Rivera booked seat 6B
+User 77:Blake Murphy booked seat 5E
+User 78:Alexandra Gonzales booked seat 5D
+User 80:Paige Brooks booked seat 5C
+User 81:Adrian Powell booked seat 5B
+User 83:Zachary Evans booked seat 5A
+User 82:Savannah James booked seat 5A
+User 85:Kyle Russell booked seat 4F
+User 86:Leah Barnes booked seat 4E
+User 87:Connor Wright booked seat 4E
+User 89:Lucas Green booked seat 4D
+User 90:Kennedy Stewart booked seat 4C
+User 37:Justin Sanchez booked seat 4B
+User 91:Mason Flores booked seat 4C
+User 95:Gabriel Adams booked seat 4A
+User 97:Evan Sanders booked seat 3F
+User 98:Destiny Cox booked seat 3F
+User 102:Gabriella Henderson booked seat 3D
+User 105:Carter Richardson booked seat 3B
+User 101:Adam Bailey booked seat 3D
+User 100:Amanda Martinez booked seat 3E
+User 108:Riley Wood booked seat 3A
+User 106:Maria Howard booked seat 3B
+User 104:Nicole Edwards booked seat 3C
+User 110:Maya Murphy booked seat 2F
+User 111:Brayden Nelson booked seat 2E
+User 114:Kylie Jackson booked seat 2C
+User 113:Owen Cooper booked seat 2D
+User 118:Allison Brooks booked seat 1F
+User 116:Faith Morgan booked seat 2B
+User 120:Leah Foster booked seat 1D
+User 119:Colton Gray booked seat 1E
+User 41:Jason Torres booked seat 1C
+User 96:Makayla Lopez booked seat 1C
+User 43:Brian Morales booked seat 13C
+User 57:Caleb Ward booked seat 13D
+User 49:Alexander Diaz booked seat 13E
+User 56:Samantha Brooks booked seat 13E
+User 79:Cameron Taylor booked seat 13E
+User 36:Lauren Evans booked seat 13D
+User 109:Dylan Price booked seat 13F
+User 115:Tristan Ward booked seat 13F
+User 84:Julia Coleman booked seat 13E
+User 40:Zoe Reed booked seat 13D
+User 88:Rebecca Allen booked seat 13D
+User 76:Taylor Ward booked seat 13E
+User 74:Morgan Mitchell booked seat 13E
+User 67:Jordan Stewart booked seat 13E
+User 65:Dylan Howard booked seat 13E
+User 39:Brandon Cooper booked seat 13D
+User 28:Grace Adams booked seat 13E
+User 29:Nicholas Nelson booked seat 13E
+User 17:William Young booked seat 13E
+User 3:Michael Johnson booked seat 13E
+User 15:Robert Walker booked seat 13E
+User 1:John Doe booked seat 13E
+User 24:Abigail Hill booked seat 13E
+User 32:Alyssa Roberts booked seat 13E
+User 107:Jack Kelly booked seat 13F
+User 103:Jaden Parker booked seat 13F
+User 99:Jordan Hughes booked seat 13F
+User 93:Bryan King booked seat 13F
+User 92:Isabelle Ramirez booked seat 13D
+User 112:Vanessa Thomas booked seat 13F
+Processing completed in 176 ms
+Seat assignments:
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  -  -
 -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 Concurrent check-in process completed
