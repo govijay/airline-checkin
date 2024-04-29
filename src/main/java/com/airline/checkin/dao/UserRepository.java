@@ -7,13 +7,13 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.airline.checkin.db.ConnectionProvider;
+import com.airline.Main;
 
 import com.airline.checkin.dto.User;
 
 public class UserRepository {
 
-    private static final Connection connection = ConnectionProvider.getConnection();
+    private static final Connection connection = Main.getPoolManager().getConnection("mysql");
 
     public static List<User> findAll() {
         List<User> users = new ArrayList<>();

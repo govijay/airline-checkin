@@ -1,251 +1,989 @@
-Starting concurrent check-in process
-Processing concurrently
-Booking seat for user 20:Chloe Allen by thread: pool-1-thread-20
-Booking seat for user 4:Emily Brown by thread: pool-1-thread-4
-Booking seat for user 24:Abigail Hill by thread: pool-1-thread-24
-Booking seat for user 2:Jane Smith by thread: pool-1-thread-2
-Booking seat for user 11:David Thomas by thread: pool-1-thread-11
-Booking seat for user 5:Christopher Lee by thread: pool-1-thread-5
-Booking seat for user 27:Ryan Baker by thread: pool-1-thread-27
-Booking seat for user 23:Andrew Wright by thread: pool-1-thread-23
-Booking seat for user 22:Madison King by thread: pool-1-thread-22
-Booking seat for user 12:Olivia Harris by thread: pool-1-thread-12
-Booking seat for user 10:Sarah Anderson by thread: pool-1-thread-10
-Booking seat for user 16:Ava Hall by thread: pool-1-thread-16
-Booking seat for user 14:Emma Lewis by thread: pool-1-thread-14
-Booking seat for user 13:James Clark by thread: pool-1-thread-13
-Booking seat for user 25:Anthony Scott by thread: pool-1-thread-25
-Booking seat for user 29:Nicholas Nelson by thread: pool-1-thread-29
-Booking seat for user 28:Grace Adams by thread: pool-1-thread-28
-Booking seat for user 9:Daniel Martinez by thread: pool-1-thread-9
-Booking seat for user 6:Jessica Davis by thread: pool-1-thread-6
-Booking seat for user 19:Joseph Martin by thread: pool-1-thread-19
-Booking seat for user 21:Charles Garcia by thread: pool-1-thread-21
-Booking seat for user 17:William Young by thread: pool-1-thread-17
-Booking seat for user 1:John Doe by thread: pool-1-thread-1
-Booking seat for user 7:Matthew Wilson by thread: pool-1-thread-7
-Booking seat for user 18:Sophia White by thread: pool-1-thread-18
-Booking seat for user 15:Robert Walker by thread: pool-1-thread-15
-Booking seat for user 26:Elizabeth Green by thread: pool-1-thread-26
-Booking seat for user 3:Michael Johnson by thread: pool-1-thread-3
-Booking seat for user 34:Natalie Carter by thread: pool-1-thread-34
-Booking seat for user 33:Joshua Turner by thread: pool-1-thread-33
-Booking seat for user 32:Alyssa Roberts by thread: pool-1-thread-32
-Booking seat for user 31:Matthew Perez by thread: pool-1-thread-31
-Booking seat for user 30:Victoria Mitchell by thread: pool-1-thread-30
-Booking seat for user 8:Jennifer Taylor by thread: pool-1-thread-8
-Booking seat for user 36:Lauren Evans by thread: pool-1-thread-36
-Booking seat for user 37:Justin Sanchez by thread: pool-1-thread-37
-Booking seat for user 38:Hannah Rivera by thread: pool-1-thread-38
-Booking seat for user 35:Kevin Phillips by thread: pool-1-thread-35
-Booking seat for user 39:Brandon Cooper by thread: pool-1-thread-39
-Booking seat for user 40:Zoe Reed by thread: pool-1-thread-40
-Booking seat for user 41:Jason Torres by thread: pool-1-thread-41
-Booking seat for user 42:Mia Ortiz by thread: pool-1-thread-42
-Booking seat for user 43:Brian Morales by thread: pool-1-thread-43
-Booking seat for user 44:Sophie Russell by thread: pool-1-thread-44
-Booking seat for user 45:Samuel Coleman by thread: pool-1-thread-45
-Booking seat for user 46:Lily Peterson by thread: pool-1-thread-46
-Booking seat for user 47:Tyler Gray by thread: pool-1-thread-47
-Booking seat for user 48:Avery Bell by thread: pool-1-thread-48
-Booking seat for user 49:Alexander Diaz by thread: pool-1-thread-49
-Booking seat for user 50:Ella Jenkins by thread: pool-1-thread-50
-Booking seat for user 51:Benjamin Hughes by thread: pool-1-thread-51
-Booking seat for user 52:Charlotte Coleman by thread: pool-1-thread-52
-Booking seat for user 53:Gabriel Washington by thread: pool-1-thread-53
-Booking seat for user 54:Makayla Long by thread: pool-1-thread-54
-Booking seat for user 55:Christopher Foster by thread: pool-1-thread-55
-Booking seat for user 56:Samantha Brooks by thread: pool-1-thread-56
-Booking seat for user 57:Caleb Ward by thread: pool-1-thread-57
-Booking seat for user 58:Avery Fisher by thread: pool-1-thread-58
-Booking seat for user 59:Austin Reed by thread: pool-1-thread-59
-Booking seat for user 60:Katherine Price by thread: pool-1-thread-60
-Booking seat for user 61:Logan Butler by thread: pool-1-thread-61
-Booking seat for user 62:Madeline Ross by thread: pool-1-thread-62
-Booking seat for user 63:Justin Richardson by thread: pool-1-thread-63
-Booking seat for user 64:Sydney Patterson by thread: pool-1-thread-64
-Booking seat for user 65:Dylan Howard by thread: pool-1-thread-65
-Booking seat for user 66:Brooklyn Cooper by thread: pool-1-thread-66
-Booking seat for user 67:Jordan Stewart by thread: pool-1-thread-67
-Booking seat for user 68:Claire Perry by thread: pool-1-thread-68
-Booking seat for user 69:Aaron Jenkins by thread: pool-1-thread-69
-Booking seat for user 70:Isabella Ward by thread: pool-1-thread-70
-Booking seat for user 71:Nathan Rivera by thread: pool-1-thread-71
-Booking seat for user 72:Haley Campbell by thread: pool-1-thread-72
-Booking seat for user 73:Christian Bryant by thread: pool-1-thread-73
-Booking seat for user 74:Morgan Mitchell by thread: pool-1-thread-74
-Booking seat for user 75:Juan Cox by thread: pool-1-thread-75
-Booking seat for user 76:Taylor Ward by thread: pool-1-thread-76
-Booking seat for user 77:Blake Murphy by thread: pool-1-thread-77
-Booking seat for user 78:Alexandra Gonzales by thread: pool-1-thread-78
-Booking seat for user 79:Cameron Taylor by thread: pool-1-thread-79
-Booking seat for user 80:Paige Brooks by thread: pool-1-thread-80
-Booking seat for user 81:Adrian Powell by thread: pool-1-thread-81
-Booking seat for user 82:Savannah James by thread: pool-1-thread-82
-Booking seat for user 83:Zachary Evans by thread: pool-1-thread-83
-Booking seat for user 84:Julia Coleman by thread: pool-1-thread-84
-Booking seat for user 85:Kyle Russell by thread: pool-1-thread-85
-Booking seat for user 86:Leah Barnes by thread: pool-1-thread-86
-Booking seat for user 87:Connor Wright by thread: pool-1-thread-87
-Booking seat for user 88:Rebecca Allen by thread: pool-1-thread-88
-Booking seat for user 89:Lucas Green by thread: pool-1-thread-89
-Booking seat for user 90:Kennedy Stewart by thread: pool-1-thread-90
-Booking seat for user 91:Mason Flores by thread: pool-1-thread-91
-Booking seat for user 92:Isabelle Ramirez by thread: pool-1-thread-92
-Booking seat for user 93:Bryan King by thread: pool-1-thread-93
-Booking seat for user 94:Hailey Watson by thread: pool-1-thread-94
-Booking seat for user 95:Gabriel Adams by thread: pool-1-thread-95
-Booking seat for user 96:Makayla Lopez by thread: pool-1-thread-96
-Booking seat for user 97:Evan Sanders by thread: pool-1-thread-97
-Booking seat for user 98:Destiny Cox by thread: pool-1-thread-98
-Booking seat for user 99:Jordan Hughes by thread: pool-1-thread-99
-Booking seat for user 100:Amanda Martinez by thread: pool-1-thread-100
-Booking seat for user 101:Adam Bailey by thread: pool-1-thread-101
-Booking seat for user 102:Gabriella Henderson by thread: pool-1-thread-102
-Booking seat for user 103:Jaden Parker by thread: pool-1-thread-103
-Booking seat for user 104:Nicole Edwards by thread: pool-1-thread-104
-Booking seat for user 105:Carter Richardson by thread: pool-1-thread-105
-Booking seat for user 106:Maria Howard by thread: pool-1-thread-106
-Booking seat for user 107:Jack Kelly by thread: pool-1-thread-107
-Booking seat for user 108:Riley Wood by thread: pool-1-thread-108
-Booking seat for user 109:Dylan Price by thread: pool-1-thread-109
-Booking seat for user 110:Maya Murphy by thread: pool-1-thread-110
-Booking seat for user 111:Brayden Nelson by thread: pool-1-thread-111
-Booking seat for user 112:Vanessa Thomas by thread: pool-1-thread-112
-Booking seat for user 113:Owen Cooper by thread: pool-1-thread-113
-Booking seat for user 114:Kylie Jackson by thread: pool-1-thread-114
-Booking seat for user 116:Faith Morgan by thread: pool-1-thread-116
-Booking seat for user 115:Tristan Ward by thread: pool-1-thread-115
-Booking seat for user 117:Dominic Martinez by thread: pool-1-thread-117
-Booking seat for user 118:Allison Brooks by thread: pool-1-thread-118
-Booking seat for user 119:Colton Gray by thread: pool-1-thread-119
-Booking seat for user 120:Leah Foster by thread: pool-1-thread-120
-User 19:Joseph Martin booked seat 1A
-User 94:Hailey Watson booked seat 1A
-User 42:Mia Ortiz booked seat 1B
-User 117:Dominic Martinez booked seat 2A
-User 72:Haley Campbell booked seat 6A
-User 58:Avery Fisher booked seat 7F
-User 55:Christopher Foster booked seat 8A
-User 54:Makayla Long booked seat 8B
-User 50:Ella Jenkins booked seat 8D
-User 11:David Thomas booked seat 12A
-User 44:Sophie Russell booked seat 12B
-User 31:Matthew Perez booked seat 12E
-User 35:Kevin Phillips booked seat 13B
-User 8:Jennifer Taylor booked seat 12F
-User 38:Hannah Rivera booked seat 13A
-User 30:Victoria Mitchell booked seat 12F
-User 4:Emily Brown booked seat 12D
-User 33:Joshua Turner booked seat 12C
-User 34:Natalie Carter booked seat 12A
-User 5:Christopher Lee booked seat 11F
-User 2:Jane Smith booked seat 12B
-User 26:Elizabeth Green booked seat 11E
-User 45:Samuel Coleman booked seat 11D
-User 23:Andrew Wright booked seat 11B
-User 46:Lily Peterson booked seat 10F
-User 12:Olivia Harris booked seat 10E
-User 27:Ryan Baker booked seat 11C
-User 16:Ava Hall booked seat 10A
-User 14:Emma Lewis booked seat 9E
-User 47:Tyler Gray booked seat 9F
-User 21:Charles Garcia booked seat 9A
-User 18:Sophia White booked seat 10C
-User 9:Daniel Martinez booked seat 8F
-User 6:Jessica Davis booked seat 8E
-User 10:Sarah Anderson booked seat 10D
-User 7:Matthew Wilson booked seat 10B
-User 52:Charlotte Coleman booked seat 8C
-User 51:Benjamin Hughes booked seat 8C
-User 22:Madison King booked seat 11A
-User 53:Gabriel Washington booked seat 8B
-User 20:Chloe Allen booked seat 8E
-User 25:Anthony Scott booked seat 9B
-User 61:Logan Butler booked seat 7C
-User 62:Madeline Ross booked seat 7B
-User 48:Avery Bell booked seat 9C
-User 13:James Clark booked seat 9D
-User 63:Justin Richardson booked seat 7A
-User 64:Sydney Patterson booked seat 6F
-User 66:Brooklyn Cooper booked seat 6E
-User 60:Katherine Price booked seat 7D
-User 68:Claire Perry booked seat 6D
-User 69:Aaron Jenkins booked seat 6C
-User 59:Austin Reed booked seat 7E
-User 70:Isabella Ward booked seat 6B
-User 73:Christian Bryant booked seat 6A
-User 75:Juan Cox booked seat 5F
-User 71:Nathan Rivera booked seat 6B
-User 77:Blake Murphy booked seat 5E
-User 78:Alexandra Gonzales booked seat 5D
-User 80:Paige Brooks booked seat 5C
-User 81:Adrian Powell booked seat 5B
-User 83:Zachary Evans booked seat 5A
-User 82:Savannah James booked seat 5A
-User 85:Kyle Russell booked seat 4F
-User 86:Leah Barnes booked seat 4E
-User 87:Connor Wright booked seat 4E
-User 89:Lucas Green booked seat 4D
-User 90:Kennedy Stewart booked seat 4C
-User 37:Justin Sanchez booked seat 4B
-User 91:Mason Flores booked seat 4C
-User 95:Gabriel Adams booked seat 4A
-User 97:Evan Sanders booked seat 3F
-User 98:Destiny Cox booked seat 3F
-User 102:Gabriella Henderson booked seat 3D
-User 105:Carter Richardson booked seat 3B
-User 101:Adam Bailey booked seat 3D
-User 100:Amanda Martinez booked seat 3E
-User 108:Riley Wood booked seat 3A
-User 106:Maria Howard booked seat 3B
-User 104:Nicole Edwards booked seat 3C
-User 110:Maya Murphy booked seat 2F
-User 111:Brayden Nelson booked seat 2E
-User 114:Kylie Jackson booked seat 2C
-User 113:Owen Cooper booked seat 2D
-User 118:Allison Brooks booked seat 1F
-User 116:Faith Morgan booked seat 2B
-User 120:Leah Foster booked seat 1D
-User 119:Colton Gray booked seat 1E
-User 41:Jason Torres booked seat 1C
-User 96:Makayla Lopez booked seat 1C
-User 43:Brian Morales booked seat 13C
-User 57:Caleb Ward booked seat 13D
-User 49:Alexander Diaz booked seat 13E
-User 56:Samantha Brooks booked seat 13E
-User 79:Cameron Taylor booked seat 13E
-User 36:Lauren Evans booked seat 13D
-User 109:Dylan Price booked seat 13F
-User 115:Tristan Ward booked seat 13F
-User 84:Julia Coleman booked seat 13E
-User 40:Zoe Reed booked seat 13D
-User 88:Rebecca Allen booked seat 13D
-User 76:Taylor Ward booked seat 13E
-User 74:Morgan Mitchell booked seat 13E
-User 67:Jordan Stewart booked seat 13E
-User 65:Dylan Howard booked seat 13E
-User 39:Brandon Cooper booked seat 13D
-User 28:Grace Adams booked seat 13E
-User 29:Nicholas Nelson booked seat 13E
-User 17:William Young booked seat 13E
-User 3:Michael Johnson booked seat 13E
-User 15:Robert Walker booked seat 13E
-User 1:John Doe booked seat 13E
-User 24:Abigail Hill booked seat 13E
-User 32:Alyssa Roberts booked seat 13E
-User 107:Jack Kelly booked seat 13F
-User 103:Jaden Parker booked seat 13F
-User 99:Jordan Hughes booked seat 13F
-User 93:Bryan King booked seat 13F
-User 92:Isabelle Ramirez booked seat 13D
-User 112:Vanessa Thomas booked seat 13F
-Processing completed in 176 ms
+Initializing application
+Loading drivers
+Drivers loaded
+Creating pools
+Application initialized
+Starting manual check-in process
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+All seats cleared
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Processing user: John Doe
+Booking seat for user 1:John Doe by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 1A for user: John Doe
+Processing user: Jane Smith
+Booking seat for user 2:Jane Smith by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 1B for user: Jane Smith
+Processing user: Michael Johnson
+Booking seat for user 3:Michael Johnson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 1C for user: Michael Johnson
+Processing user: Emily Brown
+Booking seat for user 4:Emily Brown by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 1D for user: Emily Brown
+Processing user: Christopher Lee
+Booking seat for user 5:Christopher Lee by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 1E for user: Christopher Lee
+Processing user: Jessica Davis
+Booking seat for user 6:Jessica Davis by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 1F for user: Jessica Davis
+Processing user: Matthew Wilson
+Booking seat for user 7:Matthew Wilson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 2A for user: Matthew Wilson
+Processing user: Jennifer Taylor
+Booking seat for user 8:Jennifer Taylor by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 2B for user: Jennifer Taylor
+Processing user: Daniel Martinez
+Booking seat for user 9:Daniel Martinez by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 2C for user: Daniel Martinez
+Processing user: Sarah Anderson
+Booking seat for user 10:Sarah Anderson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 2D for user: Sarah Anderson
+Processing user: David Thomas
+Booking seat for user 11:David Thomas by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 2E for user: David Thomas
+Processing user: Olivia Harris
+Booking seat for user 12:Olivia Harris by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 2F for user: Olivia Harris
+Processing user: James Clark
+Booking seat for user 13:James Clark by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 3A for user: James Clark
+Processing user: Emma Lewis
+Booking seat for user 14:Emma Lewis by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 3B for user: Emma Lewis
+Processing user: Robert Walker
+Booking seat for user 15:Robert Walker by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 3C for user: Robert Walker
+Processing user: Ava Hall
+Booking seat for user 16:Ava Hall by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 3D for user: Ava Hall
+Processing user: William Young
+Booking seat for user 17:William Young by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 3E for user: William Young
+Processing user: Sophia White
+Booking seat for user 18:Sophia White by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 3F for user: Sophia White
+Processing user: Joseph Martin
+Booking seat for user 19:Joseph Martin by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 4A for user: Joseph Martin
+Processing user: Chloe Allen
+Booking seat for user 20:Chloe Allen by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 4B for user: Chloe Allen
+Processing user: Charles Garcia
+Booking seat for user 21:Charles Garcia by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 4C for user: Charles Garcia
+Processing user: Madison King
+Booking seat for user 22:Madison King by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 4D for user: Madison King
+Processing user: Andrew Wright
+Booking seat for user 23:Andrew Wright by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 4E for user: Andrew Wright
+Processing user: Abigail Hill
+Booking seat for user 24:Abigail Hill by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 4F for user: Abigail Hill
+Processing user: Anthony Scott
+Booking seat for user 25:Anthony Scott by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 5A for user: Anthony Scott
+Processing user: Elizabeth Green
+Booking seat for user 26:Elizabeth Green by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 5B for user: Elizabeth Green
+Processing user: Ryan Baker
+Booking seat for user 27:Ryan Baker by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 5C for user: Ryan Baker
+Processing user: Grace Adams
+Booking seat for user 28:Grace Adams by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 5D for user: Grace Adams
+Processing user: Nicholas Nelson
+Booking seat for user 29:Nicholas Nelson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 5E for user: Nicholas Nelson
+Processing user: Victoria Mitchell
+Booking seat for user 30:Victoria Mitchell by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 5F for user: Victoria Mitchell
+Processing user: Matthew Perez
+Booking seat for user 31:Matthew Perez by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 6A for user: Matthew Perez
+Processing user: Alyssa Roberts
+Booking seat for user 32:Alyssa Roberts by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 6B for user: Alyssa Roberts
+Processing user: Joshua Turner
+Booking seat for user 33:Joshua Turner by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 6C for user: Joshua Turner
+Processing user: Natalie Carter
+Booking seat for user 34:Natalie Carter by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 6D for user: Natalie Carter
+Processing user: Kevin Phillips
+Booking seat for user 35:Kevin Phillips by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 6E for user: Kevin Phillips
+Processing user: Lauren Evans
+Booking seat for user 36:Lauren Evans by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 6F for user: Lauren Evans
+Processing user: Justin Sanchez
+Booking seat for user 37:Justin Sanchez by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 7A for user: Justin Sanchez
+Processing user: Hannah Rivera
+Booking seat for user 38:Hannah Rivera by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 7B for user: Hannah Rivera
+Processing user: Brandon Cooper
+Booking seat for user 39:Brandon Cooper by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 7C for user: Brandon Cooper
+Processing user: Zoe Reed
+Booking seat for user 40:Zoe Reed by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 7D for user: Zoe Reed
+Processing user: Jason Torres
+Booking seat for user 41:Jason Torres by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 7E for user: Jason Torres
+Processing user: Mia Ortiz
+Booking seat for user 42:Mia Ortiz by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 7F for user: Mia Ortiz
+Processing user: Brian Morales
+Booking seat for user 43:Brian Morales by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 8A for user: Brian Morales
+Processing user: Sophie Russell
+Booking seat for user 44:Sophie Russell by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 8B for user: Sophie Russell
+Processing user: Samuel Coleman
+Booking seat for user 45:Samuel Coleman by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 8C for user: Samuel Coleman
+Processing user: Lily Peterson
+Booking seat for user 46:Lily Peterson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 8D for user: Lily Peterson
+Processing user: Tyler Gray
+Booking seat for user 47:Tyler Gray by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 8E for user: Tyler Gray
+Processing user: Avery Bell
+Booking seat for user 48:Avery Bell by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 8F for user: Avery Bell
+Processing user: Alexander Diaz
+Booking seat for user 49:Alexander Diaz by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 9A for user: Alexander Diaz
+Processing user: Ella Jenkins
+Booking seat for user 50:Ella Jenkins by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 9B for user: Ella Jenkins
+Processing user: Benjamin Hughes
+Booking seat for user 51:Benjamin Hughes by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 9C for user: Benjamin Hughes
+Processing user: Charlotte Coleman
+Booking seat for user 52:Charlotte Coleman by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 9D for user: Charlotte Coleman
+Processing user: Gabriel Washington
+Booking seat for user 53:Gabriel Washington by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 9E for user: Gabriel Washington
+Processing user: Makayla Long
+Booking seat for user 54:Makayla Long by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 9F for user: Makayla Long
+Processing user: Christopher Foster
+Booking seat for user 55:Christopher Foster by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 10A for user: Christopher Foster
+Processing user: Samantha Brooks
+Booking seat for user 56:Samantha Brooks by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 10B for user: Samantha Brooks
+Processing user: Caleb Ward
+Booking seat for user 57:Caleb Ward by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 10C for user: Caleb Ward
+Processing user: Avery Fisher
+Booking seat for user 58:Avery Fisher by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 10D for user: Avery Fisher
+Processing user: Austin Reed
+Booking seat for user 59:Austin Reed by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 10E for user: Austin Reed
+Processing user: Katherine Price
+Booking seat for user 60:Katherine Price by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 10F for user: Katherine Price
+Processing user: Logan Butler
+Booking seat for user 61:Logan Butler by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 11A for user: Logan Butler
+Processing user: Madeline Ross
+Booking seat for user 62:Madeline Ross by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 11B for user: Madeline Ross
+Processing user: Justin Richardson
+Booking seat for user 63:Justin Richardson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 11C for user: Justin Richardson
+Processing user: Sydney Patterson
+Booking seat for user 64:Sydney Patterson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 11D for user: Sydney Patterson
+Processing user: Dylan Howard
+Booking seat for user 65:Dylan Howard by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 11E for user: Dylan Howard
+Processing user: Brooklyn Cooper
+Booking seat for user 66:Brooklyn Cooper by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 11F for user: Brooklyn Cooper
+Processing user: Jordan Stewart
+Booking seat for user 67:Jordan Stewart by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 12A for user: Jordan Stewart
+Processing user: Claire Perry
+Booking seat for user 68:Claire Perry by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 12B for user: Claire Perry
+Processing user: Aaron Jenkins
+Booking seat for user 69:Aaron Jenkins by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 12C for user: Aaron Jenkins
+Processing user: Isabella Ward
+Booking seat for user 70:Isabella Ward by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 12D for user: Isabella Ward
+Processing user: Nathan Rivera
+Booking seat for user 71:Nathan Rivera by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 12E for user: Nathan Rivera
+Processing user: Haley Campbell
+Booking seat for user 72:Haley Campbell by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 12F for user: Haley Campbell
+Processing user: Christian Bryant
+Booking seat for user 73:Christian Bryant by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 13A for user: Christian Bryant
+Processing user: Morgan Mitchell
+Booking seat for user 74:Morgan Mitchell by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 13B for user: Morgan Mitchell
+Processing user: Juan Cox
+Booking seat for user 75:Juan Cox by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 13C for user: Juan Cox
+Processing user: Taylor Ward
+Booking seat for user 76:Taylor Ward by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 13D for user: Taylor Ward
+Processing user: Blake Murphy
+Booking seat for user 77:Blake Murphy by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 13E for user: Blake Murphy
+Processing user: Alexandra Gonzales
+Booking seat for user 78:Alexandra Gonzales by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 13F for user: Alexandra Gonzales
+Processing user: Cameron Taylor
+Booking seat for user 79:Cameron Taylor by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 14A for user: Cameron Taylor
+Processing user: Paige Brooks
+Booking seat for user 80:Paige Brooks by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 14B for user: Paige Brooks
+Processing user: Adrian Powell
+Booking seat for user 81:Adrian Powell by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 14C for user: Adrian Powell
+Processing user: Savannah James
+Booking seat for user 82:Savannah James by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 14D for user: Savannah James
+Processing user: Zachary Evans
+Booking seat for user 83:Zachary Evans by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 14E for user: Zachary Evans
+Processing user: Julia Coleman
+Booking seat for user 84:Julia Coleman by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 14F for user: Julia Coleman
+Processing user: Kyle Russell
+Booking seat for user 85:Kyle Russell by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 15A for user: Kyle Russell
+Processing user: Leah Barnes
+Booking seat for user 86:Leah Barnes by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 15B for user: Leah Barnes
+Processing user: Connor Wright
+Booking seat for user 87:Connor Wright by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 15C for user: Connor Wright
+Processing user: Rebecca Allen
+Booking seat for user 88:Rebecca Allen by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 15D for user: Rebecca Allen
+Processing user: Lucas Green
+Booking seat for user 89:Lucas Green by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 15E for user: Lucas Green
+Processing user: Kennedy Stewart
+Booking seat for user 90:Kennedy Stewart by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 15F for user: Kennedy Stewart
+Processing user: Mason Flores
+Booking seat for user 91:Mason Flores by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 16A for user: Mason Flores
+Processing user: Isabelle Ramirez
+Booking seat for user 92:Isabelle Ramirez by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 16B for user: Isabelle Ramirez
+Processing user: Bryan King
+Booking seat for user 93:Bryan King by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 16C for user: Bryan King
+Processing user: Hailey Watson
+Booking seat for user 94:Hailey Watson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 16D for user: Hailey Watson
+Processing user: Gabriel Adams
+Booking seat for user 95:Gabriel Adams by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 16E for user: Gabriel Adams
+Processing user: Makayla Lopez
+Booking seat for user 96:Makayla Lopez by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 16F for user: Makayla Lopez
+Processing user: Evan Sanders
+Booking seat for user 97:Evan Sanders by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 17A for user: Evan Sanders
+Processing user: Destiny Cox
+Booking seat for user 98:Destiny Cox by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 17B for user: Destiny Cox
+Processing user: Jordan Hughes
+Booking seat for user 99:Jordan Hughes by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 17C for user: Jordan Hughes
+Processing user: Amanda Martinez
+Booking seat for user 100:Amanda Martinez by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 17D for user: Amanda Martinez
+Processing user: Adam Bailey
+Booking seat for user 101:Adam Bailey by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 17E for user: Adam Bailey
+Processing user: Gabriella Henderson
+Booking seat for user 102:Gabriella Henderson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 17F for user: Gabriella Henderson
+Processing user: Jaden Parker
+Booking seat for user 103:Jaden Parker by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 18A for user: Jaden Parker
+Processing user: Nicole Edwards
+Booking seat for user 104:Nicole Edwards by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 18B for user: Nicole Edwards
+Processing user: Carter Richardson
+Booking seat for user 105:Carter Richardson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 18C for user: Carter Richardson
+Processing user: Maria Howard
+Booking seat for user 106:Maria Howard by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 18D for user: Maria Howard
+Processing user: Jack Kelly
+Booking seat for user 107:Jack Kelly by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 18E for user: Jack Kelly
+Processing user: Riley Wood
+Booking seat for user 108:Riley Wood by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 18F for user: Riley Wood
+Processing user: Dylan Price
+Booking seat for user 109:Dylan Price by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 19A for user: Dylan Price
+Processing user: Maya Murphy
+Booking seat for user 110:Maya Murphy by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 19B for user: Maya Murphy
+Processing user: Brayden Nelson
+Booking seat for user 111:Brayden Nelson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 19C for user: Brayden Nelson
+Processing user: Vanessa Thomas
+Booking seat for user 112:Vanessa Thomas by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 19D for user: Vanessa Thomas
+Processing user: Owen Cooper
+Booking seat for user 113:Owen Cooper by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 19E for user: Owen Cooper
+Processing user: Kylie Jackson
+Booking seat for user 114:Kylie Jackson by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 19F for user: Kylie Jackson
+Processing user: Tristan Ward
+Booking seat for user 115:Tristan Ward by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 20A for user: Tristan Ward
+Processing user: Faith Morgan
+Booking seat for user 116:Faith Morgan by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 20B for user: Faith Morgan
+Processing user: Dominic Martinez
+Booking seat for user 117:Dominic Martinez by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 20C for user: Dominic Martinez
+Processing user: Allison Brooks
+Booking seat for user 118:Allison Brooks by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 20D for user: Allison Brooks
+Processing user: Colton Gray
+Booking seat for user 119:Colton Gray by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 20E for user: Colton Gray
+Processing user: Leah Foster
+Booking seat for user 120:Leah Foster by thread: main
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Assigned seat: 20F for user: Leah Foster
+Processing completed in 305 ms
 Seat assignments:
+Getting connection by thread: main
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
 X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
 X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
 X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
-X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  -  -
--  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
--  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
-Concurrent check-in process completed
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+Manual check-in process completed

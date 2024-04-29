@@ -23,11 +23,11 @@ public class ConcurrentCheckInProcessor implements Processor{
         ExecutorService executorService = Executors.newFixedThreadPool(
             users.size());
         for (User user : users) {
+            System.out.println("Processing user " + user.getId() + ":" + user.getName() + " by thread: " + Thread.currentThread().getName());
             executorService.execute(() -> {
                 Seat seat = SeatsRepository.bookSeat(user);
                 if (seat != null) {
-                    System.out.println(
-                        "User " + user.getId() + ":" + user.getName() + " booked seat " + seat.getName());
+                    System.out.println("Seat: " + seat.getName() +" booked for user " + user.getId() + ":" + user.getName() + " by thread: " + Thread.currentThread().getName());
                     return;
                 }
             });
@@ -36,7 +36,7 @@ public class ConcurrentCheckInProcessor implements Processor{
         executorService.shutdown();
         try {
             // Wait for all tasks to complete or until the timeout (e.g., 10 seconds)
-            if (!executorService.awaitTermination(10, TimeUnit.SECONDS)) {
+            if (!executorService.awaitTermination(10, TimeUnit.MINUTES)) {
                 // Timeout elapsed before all tasks completed
                 System.out.println("Timeout elapsed before all tasks completed");
             }
