@@ -13,20 +13,32 @@ public class Main {
     public static void main(String[] args) {
 
         init();
+        if (args.length > 0 && args[0].equals("manual")) {
+            manualCheckIn();
+        } else if (args.length > 0 && args[0].equals("concurrent")){
+            concurrentCheckIn();
+        } else {
+            System.out.println("Please provide a valid argument: manual or concurrent");
+        }
+    }
 
-//         System.out.println("Starting manual check-in process");
-//         SeatsRepository.clearAllSeats();
-//         System.out.println("All seats cleared");
-//         Processor manualProcessor = new ManualCheckInProcessor();
-//         manualProcessor.process();
-//         System.out.println("Manual check-in process completed");
-
+    private static void concurrentCheckIn ()
+    {
         System.out.println("Starting concurrent check-in process");
         SeatsRepository.clearAllSeats();
         Processor concurrentProcessor = new ConcurrentCheckInProcessor();
         concurrentProcessor.process();
         System.out.println("Concurrent check-in process completed");
-        
+    }
+
+    private static void manualCheckIn ()
+    {
+        System.out.println("Starting manual check-in process");
+        SeatsRepository.clearAllSeats();
+        System.out.println("All seats cleared");
+        Processor manualProcessor = new ManualCheckInProcessor();
+        manualProcessor.process();
+        System.out.println("Manual check-in process completed");
     }
 
     private static void init() {

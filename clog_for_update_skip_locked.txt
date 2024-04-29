@@ -1,0 +1,989 @@
+Initializing application
+Loading drivers
+Drivers loaded
+Creating pools
+Application initialized
+Starting concurrent check-in process
+Getting connection by thread: main with timeout: 1000 ms  free connections: 100
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+Processing concurrently
+Getting connection by thread: main with timeout: 1000 ms  free connections: 100
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Processing user 1:John Doe by thread: main
+Processing user 2:Jane Smith by thread: main
+Processing user 3:Michael Johnson by thread: main
+Booking seat for user 1:John Doe by thread: pool-1-thread-1
+Processing user 4:Emily Brown by thread: main
+Booking seat for user 2:Jane Smith by thread: pool-1-thread-2
+Getting connection by thread: pool-1-thread-1 with timeout: 1000 ms  free connections: 99
+Booking seat for user 3:Michael Johnson by thread: pool-1-thread-3
+Connection acquired by thread: pool-1-thread-1
+Processing user 5:Christopher Lee by thread: main
+Booking seat for user 4:Emily Brown by thread: pool-1-thread-4
+Getting connection by thread: pool-1-thread-2 with timeout: 1000 ms  free connections: 98
+Connection obtained from pool: mysql
+Processing user 6:Jessica Davis by thread: main
+Connection acquired by thread: pool-1-thread-2
+Booking seat for user 5:Christopher Lee by thread: pool-1-thread-5
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-4 with timeout: 1000 ms  free connections: 97
+Processing user 7:Matthew Wilson by thread: main
+Connection acquired by thread: pool-1-thread-4
+Booking seat for user 6:Jessica Davis by thread: pool-1-thread-6
+Getting connection by thread: pool-1-thread-3 with timeout: 1000 ms  free connections: 96
+Connection obtained from pool: mysql
+Processing user 8:Jennifer Taylor by thread: main
+Booking seat for user 7:Matthew Wilson by thread: pool-1-thread-7
+Connection acquired by thread: pool-1-thread-3
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-7 with timeout: 1000 ms  free connections: 95
+Processing user 9:Daniel Martinez by thread: main
+Booking seat for user 8:Jennifer Taylor by thread: pool-1-thread-8
+Connection acquired by thread: pool-1-thread-7
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-6 with timeout: 1000 ms  free connections: 94
+Booking seat for user 9:Daniel Martinez by thread: pool-1-thread-9
+Connection acquired by thread: pool-1-thread-6
+Processing user 10:Sarah Anderson by thread: main
+Getting connection by thread: pool-1-thread-5 with timeout: 1000 ms  free connections: 93
+Connection obtained from pool: mysql
+Connection acquired by thread: pool-1-thread-5
+Processing user 11:David Thomas by thread: main
+Booking seat for user 10:Sarah Anderson by thread: pool-1-thread-10
+Getting connection by thread: pool-1-thread-9 with timeout: 1000 ms  free connections: 92
+Connection obtained from pool: mysql
+Connection acquired by thread: pool-1-thread-9
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-8 with timeout: 1000 ms  free connections: 91
+Processing user 12:Olivia Harris by thread: main
+Connection acquired by thread: pool-1-thread-8
+Connection obtained from pool: mysql
+Booking seat for user 11:David Thomas by thread: pool-1-thread-11
+Booking seat for user 12:Olivia Harris by thread: pool-1-thread-12
+Processing user 13:James Clark by thread: main
+Getting connection by thread: pool-1-thread-10 with timeout: 1000 ms  free connections: 90
+Connection acquired by thread: pool-1-thread-10
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-12 with timeout: 1000 ms  free connections: 89
+Processing user 14:Emma Lewis by thread: main
+Connection acquired by thread: pool-1-thread-12
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-11 with timeout: 1000 ms  free connections: 88
+Booking seat for user 13:James Clark by thread: pool-1-thread-13
+Connection acquired by thread: pool-1-thread-11
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-13 with timeout: 1000 ms  free connections: 87
+Processing user 15:Robert Walker by thread: main
+Connection acquired by thread: pool-1-thread-13
+Connection obtained from pool: mysql
+Booking seat for user 14:Emma Lewis by thread: pool-1-thread-14
+Getting connection by thread: pool-1-thread-14 with timeout: 1000 ms  free connections: 86
+Processing user 16:Ava Hall by thread: main
+Connection acquired by thread: pool-1-thread-14
+Booking seat for user 15:Robert Walker by thread: pool-1-thread-15
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-15 with timeout: 1000 ms  free connections: 85
+Booking seat for user 16:Ava Hall by thread: pool-1-thread-16
+Processing user 17:William Young by thread: main
+Connection acquired by thread: pool-1-thread-15
+Connection obtained from pool: mysql
+Processing user 18:Sophia White by thread: main
+Getting connection by thread: pool-1-thread-16 with timeout: 1000 ms  free connections: 84
+Booking seat for user 17:William Young by thread: pool-1-thread-17
+Connection acquired by thread: pool-1-thread-16
+Connection obtained from pool: mysql
+Booking seat for user 18:Sophia White by thread: pool-1-thread-18
+Processing user 19:Joseph Martin by thread: main
+Getting connection by thread: pool-1-thread-17 with timeout: 1000 ms  free connections: 83
+Connection acquired by thread: pool-1-thread-17
+Processing user 20:Chloe Allen by thread: main
+Connection obtained from pool: mysql
+Booking seat for user 19:Joseph Martin by thread: pool-1-thread-19
+Getting connection by thread: pool-1-thread-18 with timeout: 1000 ms  free connections: 82
+Processing user 21:Charles Garcia by thread: main
+Connection acquired by thread: pool-1-thread-18
+Booking seat for user 20:Chloe Allen by thread: pool-1-thread-20
+Connection obtained from pool: mysql
+Processing user 22:Madison King by thread: main
+Booking seat for user 21:Charles Garcia by thread: pool-1-thread-21
+Getting connection by thread: pool-1-thread-19 with timeout: 1000 ms  free connections: 81
+Connection acquired by thread: pool-1-thread-19
+Connection obtained from pool: mysql
+Processing user 23:Andrew Wright by thread: main
+Booking seat for user 22:Madison King by thread: pool-1-thread-22
+Getting connection by thread: pool-1-thread-21 with timeout: 1000 ms  free connections: 80
+Connection acquired by thread: pool-1-thread-21
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-20 with timeout: 1000 ms  free connections: 79
+Connection acquired by thread: pool-1-thread-20
+Connection obtained from pool: mysql
+Processing user 24:Abigail Hill by thread: main
+Booking seat for user 23:Andrew Wright by thread: pool-1-thread-23
+Getting connection by thread: pool-1-thread-23 with timeout: 1000 ms  free connections: 78
+Connection acquired by thread: pool-1-thread-23
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-22 with timeout: 1000 ms  free connections: 77
+Booking seat for user 24:Abigail Hill by thread: pool-1-thread-24
+Processing user 25:Anthony Scott by thread: main
+Connection acquired by thread: pool-1-thread-22
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-24 with timeout: 1000 ms  free connections: 76
+Processing user 26:Elizabeth Green by thread: main
+Connection acquired by thread: pool-1-thread-24
+Booking seat for user 25:Anthony Scott by thread: pool-1-thread-25
+Connection obtained from pool: mysql
+Processing user 27:Ryan Baker by thread: main
+Getting connection by thread: pool-1-thread-25 with timeout: 1000 ms  free connections: 75
+Booking seat for user 26:Elizabeth Green by thread: pool-1-thread-26
+Connection acquired by thread: pool-1-thread-25
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-26 with timeout: 1000 ms  free connections: 74
+Processing user 28:Grace Adams by thread: main
+Booking seat for user 27:Ryan Baker by thread: pool-1-thread-27
+Connection acquired by thread: pool-1-thread-26
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-27 with timeout: 1000 ms  free connections: 73
+Processing user 29:Nicholas Nelson by thread: main
+Booking seat for user 28:Grace Adams by thread: pool-1-thread-28
+Connection acquired by thread: pool-1-thread-27
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-28 with timeout: 1000 ms  free connections: 72
+Connection acquired by thread: pool-1-thread-28
+Connection obtained from pool: mysql
+Booking seat for user 29:Nicholas Nelson by thread: pool-1-thread-29
+Processing user 30:Victoria Mitchell by thread: main
+Getting connection by thread: pool-1-thread-29 with timeout: 1000 ms  free connections: 71
+Connection acquired by thread: pool-1-thread-29
+Connection obtained from pool: mysql
+Processing user 31:Matthew Perez by thread: main
+Booking seat for user 30:Victoria Mitchell by thread: pool-1-thread-30
+Getting connection by thread: pool-1-thread-30 with timeout: 1000 ms  free connections: 70
+Connection acquired by thread: pool-1-thread-30
+Connection obtained from pool: mysql
+Processing user 32:Alyssa Roberts by thread: main
+Booking seat for user 31:Matthew Perez by thread: pool-1-thread-31
+Getting connection by thread: pool-1-thread-31 with timeout: 1000 ms  free connections: 69
+Connection acquired by thread: pool-1-thread-31
+Connection obtained from pool: mysql
+Processing user 33:Joshua Turner by thread: main
+Booking seat for user 32:Alyssa Roberts by thread: pool-1-thread-32
+Getting connection by thread: pool-1-thread-32 with timeout: 1000 ms  free connections: 68
+Connection acquired by thread: pool-1-thread-32
+Connection obtained from pool: mysql
+Processing user 34:Natalie Carter by thread: main
+Processing user 35:Kevin Phillips by thread: main
+Booking seat for user 33:Joshua Turner by thread: pool-1-thread-33
+Getting connection by thread: pool-1-thread-33 with timeout: 1000 ms  free connections: 67
+Connection acquired by thread: pool-1-thread-33
+Connection obtained from pool: mysql
+Booking seat for user 34:Natalie Carter by thread: pool-1-thread-34
+Getting connection by thread: pool-1-thread-34 with timeout: 1000 ms  free connections: 66
+Connection acquired by thread: pool-1-thread-34
+Connection obtained from pool: mysql
+Processing user 36:Lauren Evans by thread: main
+Processing user 37:Justin Sanchez by thread: main
+Booking seat for user 35:Kevin Phillips by thread: pool-1-thread-35
+Getting connection by thread: pool-1-thread-35 with timeout: 1000 ms  free connections: 65
+Connection acquired by thread: pool-1-thread-35
+Connection obtained from pool: mysql
+Booking seat for user 36:Lauren Evans by thread: pool-1-thread-36
+Getting connection by thread: pool-1-thread-36 with timeout: 1000 ms  free connections: 64
+Connection acquired by thread: pool-1-thread-36
+Connection obtained from pool: mysql
+Booking seat for user 37:Justin Sanchez by thread: pool-1-thread-37
+Getting connection by thread: pool-1-thread-37 with timeout: 1000 ms  free connections: 63
+Processing user 38:Hannah Rivera by thread: main
+Connection acquired by thread: pool-1-thread-37
+Connection obtained from pool: mysql
+Processing user 39:Brandon Cooper by thread: main
+Booking seat for user 38:Hannah Rivera by thread: pool-1-thread-38
+Getting connection by thread: pool-1-thread-38 with timeout: 1000 ms  free connections: 62
+Connection acquired by thread: pool-1-thread-38
+Connection obtained from pool: mysql
+Processing user 40:Zoe Reed by thread: main
+Booking seat for user 39:Brandon Cooper by thread: pool-1-thread-39
+Getting connection by thread: pool-1-thread-39 with timeout: 1000 ms  free connections: 61
+Connection acquired by thread: pool-1-thread-39
+Connection obtained from pool: mysql
+Processing user 41:Jason Torres by thread: main
+Booking seat for user 40:Zoe Reed by thread: pool-1-thread-40
+Getting connection by thread: pool-1-thread-40 with timeout: 1000 ms  free connections: 60
+Connection acquired by thread: pool-1-thread-40
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-5
+Connection released by thread: pool-1-thread-5
+Processing user 42:Mia Ortiz by thread: main
+Booking seat for user 41:Jason Torres by thread: pool-1-thread-41
+Getting connection by thread: pool-1-thread-41 with timeout: 1000 ms  free connections: 60
+Connection acquired by thread: pool-1-thread-41
+Connection obtained from pool: mysql
+Processing user 43:Brian Morales by thread: main
+Booking seat for user 42:Mia Ortiz by thread: pool-1-thread-42
+Getting connection by thread: pool-1-thread-42 with timeout: 1000 ms  free connections: 59
+Connection acquired by thread: pool-1-thread-42
+Connection obtained from pool: mysql
+Processing user 44:Sophie Russell by thread: main
+Releasing connection by thread: pool-1-thread-17
+Connection released by thread: pool-1-thread-17
+Booking seat for user 43:Brian Morales by thread: pool-1-thread-43
+Releasing connection by thread: pool-1-thread-3
+Connection released by thread: pool-1-thread-3
+Releasing connection by thread: pool-1-thread-22
+Connection released by thread: pool-1-thread-22
+Getting connection by thread: pool-1-thread-43 with timeout: 1000 ms  free connections: 61
+Processing user 45:Samuel Coleman by thread: main
+Connection acquired by thread: pool-1-thread-43
+Connection obtained from pool: mysql
+Processing user 46:Lily Peterson by thread: main
+Booking seat for user 44:Sophie Russell by thread: pool-1-thread-44
+Booking seat for user 45:Samuel Coleman by thread: pool-1-thread-45
+Releasing connection by thread: pool-1-thread-26
+Connection released by thread: pool-1-thread-26
+Processing user 47:Tyler Gray by thread: main
+Getting connection by thread: pool-1-thread-45 with timeout: 1000 ms  free connections: 61
+Connection acquired by thread: pool-1-thread-45
+Connection obtained from pool: mysql
+Booking seat for user 46:Lily Peterson by thread: pool-1-thread-46
+Getting connection by thread: pool-1-thread-46 with timeout: 1000 ms  free connections: 60
+Connection acquired by thread: pool-1-thread-46
+Connection obtained from pool: mysql
+Seat: 2E booked for user 26:Elizabeth Green by thread: pool-1-thread-26
+Seat: 3A booked for user 5:Christopher Lee by thread: pool-1-thread-5
+Getting connection by thread: pool-1-thread-44 with timeout: 1000 ms  free connections: 59
+Connection acquired by thread: pool-1-thread-44
+Connection obtained from pool: mysql
+Seat: 1B booked for user 17:William Young by thread: pool-1-thread-17
+Seat: 2D booked for user 22:Madison King by thread: pool-1-thread-22
+Processing user 48:Avery Bell by thread: main
+Releasing connection by thread: pool-1-thread-28
+Connection released by thread: pool-1-thread-28
+Seat: 2F booked for user 28:Grace Adams by thread: pool-1-thread-28
+Releasing connection by thread: pool-1-thread-1
+Connection released by thread: pool-1-thread-1
+Seat: 1A booked for user 1:John Doe by thread: pool-1-thread-1
+Releasing connection by thread: pool-1-thread-21
+Connection released by thread: pool-1-thread-21
+Seat: 2C booked for user 21:Charles Garcia by thread: pool-1-thread-21
+Releasing connection by thread: pool-1-thread-29
+Booking seat for user 47:Tyler Gray by thread: pool-1-thread-47
+Seat: 1F booked for user 3:Michael Johnson by thread: pool-1-thread-3
+Processing user 49:Alexander Diaz by thread: main
+Connection released by thread: pool-1-thread-29
+Seat: 4A booked for user 29:Nicholas Nelson by thread: pool-1-thread-29
+Releasing connection by thread: pool-1-thread-13
+Connection released by thread: pool-1-thread-13
+Seat: 1C booked for user 13:James Clark by thread: pool-1-thread-13
+Booking seat for user 48:Avery Bell by thread: pool-1-thread-48
+Processing user 50:Ella Jenkins by thread: main
+Releasing connection by thread: pool-1-thread-9
+Connection released by thread: pool-1-thread-9
+Seat: 3E booked for user 9:Daniel Martinez by thread: pool-1-thread-9
+Booking seat for user 49:Alexander Diaz by thread: pool-1-thread-49
+Getting connection by thread: pool-1-thread-49 with timeout: 1000 ms  free connections: 64
+Connection acquired by thread: pool-1-thread-49
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-19
+Connection released by thread: pool-1-thread-19
+Seat: 3C booked for user 19:Joseph Martin by thread: pool-1-thread-19
+Releasing connection by thread: pool-1-thread-15
+Connection released by thread: pool-1-thread-15
+Seat: 3F booked for user 15:Robert Walker by thread: pool-1-thread-15
+Releasing connection by thread: pool-1-thread-25
+Connection released by thread: pool-1-thread-25
+Seat: 4E booked for user 25:Anthony Scott by thread: pool-1-thread-25
+Processing user 51:Benjamin Hughes by thread: main
+Booking seat for user 50:Ella Jenkins by thread: pool-1-thread-50
+Getting connection by thread: pool-1-thread-50 with timeout: 1000 ms  free connections: 66
+Connection acquired by thread: pool-1-thread-50
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-47 with timeout: 1000 ms  free connections: 65
+Connection acquired by thread: pool-1-thread-47
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-24
+Connection released by thread: pool-1-thread-24
+Seat: 2A booked for user 24:Abigail Hill by thread: pool-1-thread-24
+Processing user 52:Charlotte Coleman by thread: main
+Releasing connection by thread: pool-1-thread-36
+Connection released by thread: pool-1-thread-36
+Booking seat for user 51:Benjamin Hughes by thread: pool-1-thread-51
+Getting connection by thread: pool-1-thread-51 with timeout: 1000 ms  free connections: 66
+Connection acquired by thread: pool-1-thread-51
+Connection obtained from pool: mysql
+Booking seat for user 52:Charlotte Coleman by thread: pool-1-thread-52
+Seat: 6F booked for user 36:Lauren Evans by thread: pool-1-thread-36
+Processing user 53:Gabriel Washington by thread: main
+Getting connection by thread: pool-1-thread-52 with timeout: 1000 ms  free connections: 65
+Connection acquired by thread: pool-1-thread-52
+Connection obtained from pool: mysql
+Processing user 54:Makayla Long by thread: main
+Releasing connection by thread: pool-1-thread-32
+Connection released by thread: pool-1-thread-32
+Seat: 5C booked for user 32:Alyssa Roberts by thread: pool-1-thread-32
+Booking seat for user 53:Gabriel Washington by thread: pool-1-thread-53
+Getting connection by thread: pool-1-thread-53 with timeout: 1000 ms  free connections: 65
+Connection acquired by thread: pool-1-thread-53
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-18
+Connection released by thread: pool-1-thread-18
+Seat: 2B booked for user 18:Sophia White by thread: pool-1-thread-18
+Releasing connection by thread: pool-1-thread-2
+Connection released by thread: pool-1-thread-2
+Seat: 5A booked for user 2:Jane Smith by thread: pool-1-thread-2
+Releasing connection by thread: pool-1-thread-20
+Connection released by thread: pool-1-thread-20
+Seat: 4F booked for user 20:Chloe Allen by thread: pool-1-thread-20
+Releasing connection by thread: pool-1-thread-10
+Connection released by thread: pool-1-thread-10
+Releasing connection by thread: pool-1-thread-38
+Connection released by thread: pool-1-thread-38
+Booking seat for user 54:Makayla Long by thread: pool-1-thread-54
+Getting connection by thread: pool-1-thread-54 with timeout: 1000 ms  free connections: 69
+Connection acquired by thread: pool-1-thread-54
+Connection obtained from pool: mysql
+Processing user 55:Christopher Foster by thread: main
+Releasing connection by thread: pool-1-thread-11
+Connection released by thread: pool-1-thread-11
+Releasing connection by thread: pool-1-thread-39
+Connection released by thread: pool-1-thread-39
+Seat: 7C booked for user 39:Brandon Cooper by thread: pool-1-thread-39
+Seat: 7B booked for user 38:Hannah Rivera by thread: pool-1-thread-38
+Releasing connection by thread: pool-1-thread-14
+Seat: 4C booked for user 10:Sarah Anderson by thread: pool-1-thread-10
+Processing user 56:Samantha Brooks by thread: main
+Connection released by thread: pool-1-thread-14
+Seat: 3D booked for user 14:Emma Lewis by thread: pool-1-thread-14
+Seat: 5B booked for user 11:David Thomas by thread: pool-1-thread-11
+Releasing connection by thread: pool-1-thread-40
+Connection released by thread: pool-1-thread-40
+Seat: 7D booked for user 40:Zoe Reed by thread: pool-1-thread-40
+Booking seat for user 55:Christopher Foster by thread: pool-1-thread-55
+Releasing connection by thread: pool-1-thread-34
+Connection released by thread: pool-1-thread-34
+Seat: 5F booked for user 34:Natalie Carter by thread: pool-1-thread-34
+Processing user 57:Caleb Ward by thread: main
+Releasing connection by thread: pool-1-thread-37
+Connection released by thread: pool-1-thread-37
+Seat: 7A booked for user 37:Justin Sanchez by thread: pool-1-thread-37
+Booking seat for user 56:Samantha Brooks by thread: pool-1-thread-56
+Releasing connection by thread: pool-1-thread-33
+Connection released by thread: pool-1-thread-33
+Seat: 6B booked for user 33:Joshua Turner by thread: pool-1-thread-33
+Releasing connection by thread: pool-1-thread-8
+Connection released by thread: pool-1-thread-8
+Seat: 5E booked for user 8:Jennifer Taylor by thread: pool-1-thread-8
+Releasing connection by thread: pool-1-thread-31
+Connection released by thread: pool-1-thread-31
+Seat: 4D booked for user 31:Matthew Perez by thread: pool-1-thread-31
+Releasing connection by thread: pool-1-thread-6
+Connection released by thread: pool-1-thread-6
+Processing user 58:Avery Fisher by thread: main
+Releasing connection by thread: pool-1-thread-23
+Connection released by thread: pool-1-thread-23
+Seat: 6C booked for user 23:Andrew Wright by thread: pool-1-thread-23
+Seat: 4B booked for user 6:Jessica Davis by thread: pool-1-thread-6
+Releasing connection by thread: pool-1-thread-27
+Booking seat for user 58:Avery Fisher by thread: pool-1-thread-58
+Booking seat for user 57:Caleb Ward by thread: pool-1-thread-57
+Connection released by thread: pool-1-thread-27
+Processing user 59:Austin Reed by thread: main
+Releasing connection by thread: pool-1-thread-7
+Connection released by thread: pool-1-thread-7
+Seat: 1D booked for user 27:Ryan Baker by thread: pool-1-thread-27
+Seat: 3B booked for user 7:Matthew Wilson by thread: pool-1-thread-7
+Processing user 60:Katherine Price by thread: main
+Releasing connection by thread: pool-1-thread-12
+Connection released by thread: pool-1-thread-12
+Seat: 6D booked for user 12:Olivia Harris by thread: pool-1-thread-12
+Releasing connection by thread: pool-1-thread-4
+Connection released by thread: pool-1-thread-4
+Seat: 6A booked for user 4:Emily Brown by thread: pool-1-thread-4
+Booking seat for user 59:Austin Reed by thread: pool-1-thread-59
+Getting connection by thread: pool-1-thread-59 with timeout: 1000 ms  free connections: 83
+Booking seat for user 60:Katherine Price by thread: pool-1-thread-60
+Processing user 61:Logan Butler by thread: main
+Connection acquired by thread: pool-1-thread-59
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-35
+Connection released by thread: pool-1-thread-35
+Processing user 62:Madeline Ross by thread: main
+Releasing connection by thread: pool-1-thread-16
+Connection released by thread: pool-1-thread-16
+Seat: 1E booked for user 16:Ava Hall by thread: pool-1-thread-16
+Seat: 6E booked for user 35:Kevin Phillips by thread: pool-1-thread-35
+Releasing connection by thread: pool-1-thread-30
+Connection released by thread: pool-1-thread-30
+Processing user 63:Justin Richardson by thread: main
+Seat: 5D booked for user 30:Victoria Mitchell by thread: pool-1-thread-30
+Getting connection by thread: pool-1-thread-48 with timeout: 1000 ms  free connections: 85
+Connection acquired by thread: pool-1-thread-48
+Booking seat for user 62:Madeline Ross by thread: pool-1-thread-62
+Getting connection by thread: pool-1-thread-62 with timeout: 1000 ms  free connections: 84
+Booking seat for user 61:Logan Butler by thread: pool-1-thread-61
+Connection acquired by thread: pool-1-thread-62
+Connection obtained from pool: mysql
+Connection obtained from pool: mysql
+Booking seat for user 63:Justin Richardson by thread: pool-1-thread-63
+Processing user 64:Sydney Patterson by thread: main
+Getting connection by thread: pool-1-thread-60 with timeout: 1000 ms  free connections: 83
+Connection acquired by thread: pool-1-thread-60
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-57 with timeout: 1000 ms  free connections: 82
+Connection acquired by thread: pool-1-thread-57
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-58 with timeout: 1000 ms  free connections: 81
+Processing user 65:Dylan Howard by thread: main
+Connection acquired by thread: pool-1-thread-58
+Connection obtained from pool: mysql
+Booking seat for user 64:Sydney Patterson by thread: pool-1-thread-64
+Getting connection by thread: pool-1-thread-64 with timeout: 1000 ms  free connections: 80
+Connection acquired by thread: pool-1-thread-64
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-56 with timeout: 1000 ms  free connections: 79
+Connection acquired by thread: pool-1-thread-56
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-55 with timeout: 1000 ms  free connections: 78
+Connection acquired by thread: pool-1-thread-55
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-41
+Connection released by thread: pool-1-thread-41
+Releasing connection by thread: pool-1-thread-42
+Processing user 66:Brooklyn Cooper by thread: main
+Booking seat for user 65:Dylan Howard by thread: pool-1-thread-65
+Connection released by thread: pool-1-thread-42
+Seat: 7F booked for user 42:Mia Ortiz by thread: pool-1-thread-42
+Processing user 67:Jordan Stewart by thread: main
+Seat: 7E booked for user 41:Jason Torres by thread: pool-1-thread-41
+Getting connection by thread: pool-1-thread-63 with timeout: 1000 ms  free connections: 79
+Connection acquired by thread: pool-1-thread-63
+Connection obtained from pool: mysql
+Booking seat for user 66:Brooklyn Cooper by thread: pool-1-thread-66
+Getting connection by thread: pool-1-thread-66 with timeout: 1000 ms  free connections: 78
+Connection acquired by thread: pool-1-thread-66
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-61 with timeout: 1000 ms  free connections: 77
+Connection acquired by thread: pool-1-thread-61
+Connection obtained from pool: mysql
+Processing user 68:Claire Perry by thread: main
+Getting connection by thread: pool-1-thread-65 with timeout: 1000 ms  free connections: 76
+Connection acquired by thread: pool-1-thread-65
+Connection obtained from pool: mysql
+Booking seat for user 67:Jordan Stewart by thread: pool-1-thread-67
+Getting connection by thread: pool-1-thread-67 with timeout: 1000 ms  free connections: 75
+Connection acquired by thread: pool-1-thread-67
+Connection obtained from pool: mysql
+Processing user 69:Aaron Jenkins by thread: main
+Booking seat for user 68:Claire Perry by thread: pool-1-thread-68
+Getting connection by thread: pool-1-thread-68 with timeout: 1000 ms  free connections: 74
+Connection acquired by thread: pool-1-thread-68
+Connection obtained from pool: mysql
+Processing user 70:Isabella Ward by thread: main
+Booking seat for user 69:Aaron Jenkins by thread: pool-1-thread-69
+Releasing connection by thread: pool-1-thread-45
+Connection released by thread: pool-1-thread-45
+Seat: 8B booked for user 45:Samuel Coleman by thread: pool-1-thread-45
+Processing user 71:Nathan Rivera by thread: main
+Releasing connection by thread: pool-1-thread-49
+Connection released by thread: pool-1-thread-49
+Seat: 8E booked for user 49:Alexander Diaz by thread: pool-1-thread-49
+Booking seat for user 70:Isabella Ward by thread: pool-1-thread-70
+Getting connection by thread: pool-1-thread-70 with timeout: 1000 ms  free connections: 75
+Connection acquired by thread: pool-1-thread-70
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-46
+Connection released by thread: pool-1-thread-46
+Seat: 8C booked for user 46:Lily Peterson by thread: pool-1-thread-46
+Processing user 72:Haley Campbell by thread: main
+Booking seat for user 71:Nathan Rivera by thread: pool-1-thread-71
+Getting connection by thread: pool-1-thread-71 with timeout: 1000 ms  free connections: 75
+Connection acquired by thread: pool-1-thread-71
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-44
+Connection released by thread: pool-1-thread-44
+Seat: 8D booked for user 44:Sophie Russell by thread: pool-1-thread-44
+Processing user 73:Christian Bryant by thread: main
+Releasing connection by thread: pool-1-thread-43
+Booking seat for user 72:Haley Campbell by thread: pool-1-thread-72
+Connection released by thread: pool-1-thread-43
+Seat: 8A booked for user 43:Brian Morales by thread: pool-1-thread-43
+Processing user 74:Morgan Mitchell by thread: main
+Booking seat for user 73:Christian Bryant by thread: pool-1-thread-73
+Getting connection by thread: pool-1-thread-69 with timeout: 1000 ms  free connections: 76
+Connection acquired by thread: pool-1-thread-69
+Processing user 75:Juan Cox by thread: main
+Getting connection by thread: pool-1-thread-73 with timeout: 1000 ms  free connections: 75
+Booking seat for user 74:Morgan Mitchell by thread: pool-1-thread-74
+Connection obtained from pool: mysql
+Connection acquired by thread: pool-1-thread-73
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-72 with timeout: 1000 ms  free connections: 74
+Connection acquired by thread: pool-1-thread-72
+Connection obtained from pool: mysql
+Booking seat for user 75:Juan Cox by thread: pool-1-thread-75
+Getting connection by thread: pool-1-thread-75 with timeout: 1000 ms  free connections: 73
+Connection acquired by thread: pool-1-thread-75
+Connection obtained from pool: mysql
+Processing user 76:Taylor Ward by thread: main
+Getting connection by thread: pool-1-thread-74 with timeout: 1000 ms  free connections: 72
+Connection acquired by thread: pool-1-thread-74
+Connection obtained from pool: mysql
+Processing user 77:Blake Murphy by thread: main
+Booking seat for user 76:Taylor Ward by thread: pool-1-thread-76
+Getting connection by thread: pool-1-thread-76 with timeout: 1000 ms  free connections: 71
+Connection acquired by thread: pool-1-thread-76
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-51
+Connection released by thread: pool-1-thread-51
+Seat: 9C booked for user 51:Benjamin Hughes by thread: pool-1-thread-51
+Releasing connection by thread: pool-1-thread-53
+Processing user 78:Alexandra Gonzales by thread: main
+Booking seat for user 77:Blake Murphy by thread: pool-1-thread-77
+Connection released by thread: pool-1-thread-53
+Seat: 9B booked for user 53:Gabriel Washington by thread: pool-1-thread-53
+Getting connection by thread: pool-1-thread-77 with timeout: 1000 ms  free connections: 72
+Processing user 79:Cameron Taylor by thread: main
+Connection acquired by thread: pool-1-thread-77
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-52
+Connection released by thread: pool-1-thread-52
+Seat: 9D booked for user 52:Charlotte Coleman by thread: pool-1-thread-52
+Processing user 80:Paige Brooks by thread: main
+Releasing connection by thread: pool-1-thread-47
+Connection released by thread: pool-1-thread-47
+Releasing connection by thread: pool-1-thread-59
+Connection released by thread: pool-1-thread-59
+Seat: 9F booked for user 59:Austin Reed by thread: pool-1-thread-59
+Booking seat for user 79:Cameron Taylor by thread: pool-1-thread-79
+Getting connection by thread: pool-1-thread-79 with timeout: 1000 ms  free connections: 74
+Booking seat for user 78:Alexandra Gonzales by thread: pool-1-thread-78
+Processing user 81:Adrian Powell by thread: main
+Booking seat for user 80:Paige Brooks by thread: pool-1-thread-80
+Connection acquired by thread: pool-1-thread-79
+Connection obtained from pool: mysql
+Seat: 8F booked for user 47:Tyler Gray by thread: pool-1-thread-47
+Releasing connection by thread: pool-1-thread-50
+Connection released by thread: pool-1-thread-50
+Seat: 9A booked for user 50:Ella Jenkins by thread: pool-1-thread-50
+Releasing connection by thread: pool-1-thread-54
+Connection released by thread: pool-1-thread-54
+Seat: 9E booked for user 54:Makayla Long by thread: pool-1-thread-54
+Releasing connection by thread: pool-1-thread-64
+Connection released by thread: pool-1-thread-64
+Processing user 82:Savannah James by thread: main
+Releasing connection by thread: pool-1-thread-67
+Connection released by thread: pool-1-thread-67
+Seat: 12B booked for user 67:Jordan Stewart by thread: pool-1-thread-67
+Getting connection by thread: pool-1-thread-80 with timeout: 1000 ms  free connections: 77
+Seat: 10E booked for user 64:Sydney Patterson by thread: pool-1-thread-64
+Booking seat for user 81:Adrian Powell by thread: pool-1-thread-81
+Processing user 83:Zachary Evans by thread: main
+Connection acquired by thread: pool-1-thread-80
+Connection obtained from pool: mysql
+Booking seat for user 82:Savannah James by thread: pool-1-thread-82
+Releasing connection by thread: pool-1-thread-66
+Connection released by thread: pool-1-thread-66
+Seat: 11D booked for user 66:Brooklyn Cooper by thread: pool-1-thread-66
+Releasing connection by thread: pool-1-thread-63
+Processing user 84:Julia Coleman by thread: main
+Connection released by thread: pool-1-thread-63
+Booking seat for user 83:Zachary Evans by thread: pool-1-thread-83
+Seat: 11E booked for user 63:Justin Richardson by thread: pool-1-thread-63
+Processing user 85:Kyle Russell by thread: main
+Booking seat for user 84:Julia Coleman by thread: pool-1-thread-84
+Releasing connection by thread: pool-1-thread-70
+Connection released by thread: pool-1-thread-70
+Seat: 12C booked for user 70:Isabella Ward by thread: pool-1-thread-70
+Processing user 86:Leah Barnes by thread: main
+Releasing connection by thread: pool-1-thread-61
+Processing user 87:Connor Wright by thread: main
+Booking seat for user 85:Kyle Russell by thread: pool-1-thread-85
+Connection released by thread: pool-1-thread-61
+Seat: 11C booked for user 61:Logan Butler by thread: pool-1-thread-61
+Releasing connection by thread: pool-1-thread-60
+Processing user 88:Rebecca Allen by thread: main
+Connection released by thread: pool-1-thread-60
+Booking seat for user 87:Connor Wright by thread: pool-1-thread-87
+Booking seat for user 86:Leah Barnes by thread: pool-1-thread-86
+Getting connection by thread: pool-1-thread-87 with timeout: 1000 ms  free connections: 81
+Seat: 10B booked for user 60:Katherine Price by thread: pool-1-thread-60
+Connection acquired by thread: pool-1-thread-87
+Connection obtained from pool: mysql
+Processing user 89:Lucas Green by thread: main
+Releasing connection by thread: pool-1-thread-58
+Connection released by thread: pool-1-thread-58
+Seat: 11A booked for user 58:Avery Fisher by thread: pool-1-thread-58
+Booking seat for user 88:Rebecca Allen by thread: pool-1-thread-88
+Getting connection by thread: pool-1-thread-88 with timeout: 1000 ms  free connections: 81
+Connection acquired by thread: pool-1-thread-88
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-68
+Connection released by thread: pool-1-thread-68
+Processing user 90:Kennedy Stewart by thread: main
+Seat: 12A booked for user 68:Claire Perry by thread: pool-1-thread-68
+Booking seat for user 90:Kennedy Stewart by thread: pool-1-thread-90
+Processing user 91:Mason Flores by thread: main
+Getting connection by thread: pool-1-thread-78 with timeout: 1000 ms  free connections: 81
+Booking seat for user 89:Lucas Green by thread: pool-1-thread-89
+Processing user 92:Isabelle Ramirez by thread: main
+Booking seat for user 91:Mason Flores by thread: pool-1-thread-91
+Connection acquired by thread: pool-1-thread-78
+Processing user 93:Bryan King by thread: main
+Getting connection by thread: pool-1-thread-91 with timeout: 1000 ms  free connections: 80
+Connection obtained from pool: mysql
+Processing user 94:Hailey Watson by thread: main
+Connection acquired by thread: pool-1-thread-91
+Connection obtained from pool: mysql
+Booking seat for user 92:Isabelle Ramirez by thread: pool-1-thread-92
+Getting connection by thread: pool-1-thread-92 with timeout: 1000 ms  free connections: 79
+Booking seat for user 93:Bryan King by thread: pool-1-thread-93
+Connection acquired by thread: pool-1-thread-92
+Processing user 95:Gabriel Adams by thread: main
+Connection obtained from pool: mysql
+Booking seat for user 94:Hailey Watson by thread: pool-1-thread-94
+Releasing connection by thread: pool-1-thread-48
+Connection released by thread: pool-1-thread-48
+Seat: 10A booked for user 48:Avery Bell by thread: pool-1-thread-48
+Booking seat for user 95:Gabriel Adams by thread: pool-1-thread-95
+Processing user 96:Makayla Lopez by thread: main
+Releasing connection by thread: pool-1-thread-73
+Connection released by thread: pool-1-thread-73
+Seat: 12F booked for user 73:Christian Bryant by thread: pool-1-thread-73
+Releasing connection by thread: pool-1-thread-62
+Connection released by thread: pool-1-thread-62
+Seat: 10C booked for user 62:Madeline Ross by thread: pool-1-thread-62
+Releasing connection by thread: pool-1-thread-56
+Connection released by thread: pool-1-thread-56
+Seat: 10D booked for user 56:Samantha Brooks by thread: pool-1-thread-56
+Releasing connection by thread: pool-1-thread-65
+Connection released by thread: pool-1-thread-65
+Seat: 11F booked for user 65:Dylan Howard by thread: pool-1-thread-65
+Releasing connection by thread: pool-1-thread-55
+Connection released by thread: pool-1-thread-55
+Seat: 10F booked for user 55:Christopher Foster by thread: pool-1-thread-55
+Processing user 97:Evan Sanders by thread: main
+Booking seat for user 96:Makayla Lopez by thread: pool-1-thread-96
+Getting connection by thread: pool-1-thread-96 with timeout: 1000 ms  free connections: 84
+Connection acquired by thread: pool-1-thread-96
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-76
+Connection released by thread: pool-1-thread-76
+Processing user 98:Destiny Cox by thread: main
+Releasing connection by thread: pool-1-thread-69
+Connection released by thread: pool-1-thread-69
+Seat: 12E booked for user 69:Aaron Jenkins by thread: pool-1-thread-69
+Seat: 13D booked for user 76:Taylor Ward by thread: pool-1-thread-76
+Processing user 99:Jordan Hughes by thread: main
+Booking seat for user 98:Destiny Cox by thread: pool-1-thread-98
+Getting connection by thread: pool-1-thread-95 with timeout: 1000 ms  free connections: 85
+Booking seat for user 97:Evan Sanders by thread: pool-1-thread-97
+Connection acquired by thread: pool-1-thread-95
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-72
+Connection released by thread: pool-1-thread-72
+Processing user 100:Amanda Martinez by thread: main
+Releasing connection by thread: pool-1-thread-74
+Connection released by thread: pool-1-thread-74
+Seat: 13A booked for user 72:Haley Campbell by thread: pool-1-thread-72
+Releasing connection by thread: pool-1-thread-75
+Connection released by thread: pool-1-thread-75
+Seat: 13B booked for user 75:Juan Cox by thread: pool-1-thread-75
+Getting connection by thread: pool-1-thread-94 with timeout: 1000 ms  free connections: 87
+Booking seat for user 99:Jordan Hughes by thread: pool-1-thread-99
+Seat: 13C booked for user 74:Morgan Mitchell by thread: pool-1-thread-74
+Connection acquired by thread: pool-1-thread-94
+Connection obtained from pool: mysql
+Processing user 101:Adam Bailey by thread: main
+Getting connection by thread: pool-1-thread-93 with timeout: 1000 ms  free connections: 86
+Connection acquired by thread: pool-1-thread-93
+Connection obtained from pool: mysql
+Booking seat for user 100:Amanda Martinez by thread: pool-1-thread-100
+Getting connection by thread: pool-1-thread-100 with timeout: 1000 ms  free connections: 85
+Connection acquired by thread: pool-1-thread-100
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-89 with timeout: 1000 ms  free connections: 84
+Connection acquired by thread: pool-1-thread-89
+Connection obtained from pool: mysql
+Processing user 102:Gabriella Henderson by thread: main
+Getting connection by thread: pool-1-thread-90 with timeout: 1000 ms  free connections: 83
+Connection acquired by thread: pool-1-thread-90
+Connection obtained from pool: mysql
+Booking seat for user 101:Adam Bailey by thread: pool-1-thread-101
+Getting connection by thread: pool-1-thread-101 with timeout: 1000 ms  free connections: 82
+Connection acquired by thread: pool-1-thread-101
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-71
+Connection released by thread: pool-1-thread-71
+Seat: 12D booked for user 71:Nathan Rivera by thread: pool-1-thread-71
+Processing user 103:Jaden Parker by thread: main
+Getting connection by thread: pool-1-thread-86 with timeout: 1000 ms  free connections: 82
+Connection acquired by thread: pool-1-thread-86
+Connection obtained from pool: mysql
+Booking seat for user 102:Gabriella Henderson by thread: pool-1-thread-102
+Getting connection by thread: pool-1-thread-102 with timeout: 1000 ms  free connections: 81
+Connection acquired by thread: pool-1-thread-102
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-85 with timeout: 1000 ms  free connections: 80
+Connection acquired by thread: pool-1-thread-85
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-79
+Connection released by thread: pool-1-thread-79
+Seat: 13F booked for user 79:Cameron Taylor by thread: pool-1-thread-79
+Releasing connection by thread: pool-1-thread-80
+Connection released by thread: pool-1-thread-80
+Seat: 14A booked for user 80:Paige Brooks by thread: pool-1-thread-80
+Processing user 104:Nicole Edwards by thread: main
+Getting connection by thread: pool-1-thread-84 with timeout: 1000 ms  free connections: 81
+Connection acquired by thread: pool-1-thread-84
+Connection obtained from pool: mysql
+Booking seat for user 103:Jaden Parker by thread: pool-1-thread-103
+Getting connection by thread: pool-1-thread-103 with timeout: 1000 ms  free connections: 80
+Connection acquired by thread: pool-1-thread-103
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-83 with timeout: 1000 ms  free connections: 79
+Connection acquired by thread: pool-1-thread-83
+Connection obtained from pool: mysql
+Processing user 105:Carter Richardson by thread: main
+Getting connection by thread: pool-1-thread-82 with timeout: 1000 ms  free connections: 78
+Connection acquired by thread: pool-1-thread-82
+Connection obtained from pool: mysql
+Booking seat for user 104:Nicole Edwards by thread: pool-1-thread-104
+Getting connection by thread: pool-1-thread-104 with timeout: 1000 ms  free connections: 77
+Connection acquired by thread: pool-1-thread-104
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-81 with timeout: 1000 ms  free connections: 76
+Connection acquired by thread: pool-1-thread-81
+Connection obtained from pool: mysql
+Processing user 106:Maria Howard by thread: main
+Releasing connection by thread: pool-1-thread-57
+Connection released by thread: pool-1-thread-57
+Seat: 11B booked for user 57:Caleb Ward by thread: pool-1-thread-57
+Booking seat for user 105:Carter Richardson by thread: pool-1-thread-105
+Getting connection by thread: pool-1-thread-105 with timeout: 1000 ms  free connections: 76
+Connection acquired by thread: pool-1-thread-105
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-77
+Connection released by thread: pool-1-thread-77
+Seat: 13E booked for user 77:Blake Murphy by thread: pool-1-thread-77
+Processing user 107:Jack Kelly by thread: main
+Getting connection by thread: pool-1-thread-99 with timeout: 1000 ms  free connections: 76
+Connection acquired by thread: pool-1-thread-99
+Connection obtained from pool: mysql
+Booking seat for user 106:Maria Howard by thread: pool-1-thread-106
+Getting connection by thread: pool-1-thread-106 with timeout: 1000 ms  free connections: 75
+Connection acquired by thread: pool-1-thread-106
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-97 with timeout: 1000 ms  free connections: 74
+Connection acquired by thread: pool-1-thread-97
+Connection obtained from pool: mysql
+Processing user 108:Riley Wood by thread: main
+Releasing connection by thread: pool-1-thread-88
+Connection released by thread: pool-1-thread-88
+Releasing connection by thread: pool-1-thread-78
+Connection released by thread: pool-1-thread-78
+Seat: 14D booked for user 78:Alexandra Gonzales by thread: pool-1-thread-78
+Getting connection by thread: pool-1-thread-98 with timeout: 1000 ms  free connections: 75
+Connection acquired by thread: pool-1-thread-98
+Connection obtained from pool: mysql
+Booking seat for user 107:Jack Kelly by thread: pool-1-thread-107
+Getting connection by thread: pool-1-thread-107 with timeout: 1000 ms  free connections: 74
+Seat: 14C booked for user 88:Rebecca Allen by thread: pool-1-thread-88
+Processing user 109:Dylan Price by thread: main
+Connection acquired by thread: pool-1-thread-107
+Connection obtained from pool: mysql
+Booking seat for user 108:Riley Wood by thread: pool-1-thread-108
+Releasing connection by thread: pool-1-thread-91
+Connection released by thread: pool-1-thread-91
+Seat: 14E booked for user 91:Mason Flores by thread: pool-1-thread-91
+Processing user 110:Maya Murphy by thread: main
+Releasing connection by thread: pool-1-thread-96
+Connection released by thread: pool-1-thread-96
+Seat: 15A booked for user 96:Makayla Lopez by thread: pool-1-thread-96
+Releasing connection by thread: pool-1-thread-92
+Connection released by thread: pool-1-thread-92
+Seat: 14F booked for user 92:Isabelle Ramirez by thread: pool-1-thread-92
+Processing user 111:Brayden Nelson by thread: main
+Booking seat for user 109:Dylan Price by thread: pool-1-thread-109
+Booking seat for user 110:Maya Murphy by thread: pool-1-thread-110
+Releasing connection by thread: pool-1-thread-87
+Connection released by thread: pool-1-thread-87
+Seat: 14B booked for user 87:Connor Wright by thread: pool-1-thread-87
+Processing user 112:Vanessa Thomas by thread: main
+Getting connection by thread: pool-1-thread-110 with timeout: 1000 ms  free connections: 77
+Booking seat for user 111:Brayden Nelson by thread: pool-1-thread-111
+Connection acquired by thread: pool-1-thread-110
+Processing user 113:Owen Cooper by thread: main
+Connection obtained from pool: mysql
+Booking seat for user 112:Vanessa Thomas by thread: pool-1-thread-112
+Getting connection by thread: pool-1-thread-109 with timeout: 1000 ms  free connections: 76
+Connection acquired by thread: pool-1-thread-109
+Connection obtained from pool: mysql
+Processing user 114:Kylie Jackson by thread: main
+Getting connection by thread: pool-1-thread-108 with timeout: 1000 ms  free connections: 75
+Connection acquired by thread: pool-1-thread-108
+Connection obtained from pool: mysql
+Booking seat for user 113:Owen Cooper by thread: pool-1-thread-113
+Getting connection by thread: pool-1-thread-113 with timeout: 1000 ms  free connections: 74
+Connection acquired by thread: pool-1-thread-113
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-89
+Connection released by thread: pool-1-thread-89
+Seat: 15F booked for user 89:Lucas Green by thread: pool-1-thread-89
+Processing user 115:Tristan Ward by thread: main
+Releasing connection by thread: pool-1-thread-95
+Connection released by thread: pool-1-thread-95
+Seat: 15B booked for user 95:Gabriel Adams by thread: pool-1-thread-95
+Booking seat for user 114:Kylie Jackson by thread: pool-1-thread-114
+Processing user 116:Faith Morgan by thread: main
+Getting connection by thread: pool-1-thread-112 with timeout: 1000 ms  free connections: 75
+Booking seat for user 115:Tristan Ward by thread: pool-1-thread-115
+Connection acquired by thread: pool-1-thread-112
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-102
+Connection released by thread: pool-1-thread-102
+Seat: 16D booked for user 102:Gabriella Henderson by thread: pool-1-thread-102
+Getting connection by thread: pool-1-thread-111 with timeout: 1000 ms  free connections: 75
+Processing user 117:Dominic Martinez by thread: main
+Connection acquired by thread: pool-1-thread-111
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-104
+Connection released by thread: pool-1-thread-104
+Seat: 17E booked for user 104:Nicole Edwards by thread: pool-1-thread-104
+Releasing connection by thread: pool-1-thread-86
+Connection released by thread: pool-1-thread-86
+Booking seat for user 116:Faith Morgan by thread: pool-1-thread-116
+Processing user 118:Allison Brooks by thread: main
+Seat: 16C booked for user 86:Leah Barnes by thread: pool-1-thread-86
+Releasing connection by thread: pool-1-thread-90
+Connection released by thread: pool-1-thread-90
+Booking seat for user 117:Dominic Martinez by thread: pool-1-thread-117
+Booking seat for user 118:Allison Brooks by thread: pool-1-thread-118
+Processing user 119:Colton Gray by thread: main
+Seat: 16A booked for user 90:Kennedy Stewart by thread: pool-1-thread-90
+Releasing connection by thread: pool-1-thread-103
+Processing user 120:Leah Foster by thread: main
+Connection released by thread: pool-1-thread-103
+Booking seat for user 119:Colton Gray by thread: pool-1-thread-119
+Releasing connection by thread: pool-1-thread-83
+Seat: 17B booked for user 103:Jaden Parker by thread: pool-1-thread-103
+Connection released by thread: pool-1-thread-83
+Seat: 17A booked for user 83:Zachary Evans by thread: pool-1-thread-83
+Getting connection by thread: pool-1-thread-115 with timeout: 1000 ms  free connections: 79
+Connection acquired by thread: pool-1-thread-115
+Connection obtained from pool: mysql
+Booking seat for user 120:Leah Foster by thread: pool-1-thread-120
+Getting connection by thread: pool-1-thread-120 with timeout: 1000 ms  free connections: 78
+Connection acquired by thread: pool-1-thread-120
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-105
+Connection released by thread: pool-1-thread-105
+Seat: 17F booked for user 105:Carter Richardson by thread: pool-1-thread-105
+Releasing connection by thread: pool-1-thread-85
+Connection released by thread: pool-1-thread-85
+Seat: 16F booked for user 85:Kyle Russell by thread: pool-1-thread-85
+Releasing connection by thread: pool-1-thread-81
+Connection released by thread: pool-1-thread-81
+Seat: 17D booked for user 81:Adrian Powell by thread: pool-1-thread-81
+Releasing connection by thread: pool-1-thread-101
+Connection released by thread: pool-1-thread-101
+Seat: 16B booked for user 101:Adam Bailey by thread: pool-1-thread-101
+Releasing connection by thread: pool-1-thread-84
+Connection released by thread: pool-1-thread-84
+Seat: 16E booked for user 84:Julia Coleman by thread: pool-1-thread-84
+Releasing connection by thread: pool-1-thread-97
+Connection released by thread: pool-1-thread-97
+Seat: 18C booked for user 97:Evan Sanders by thread: pool-1-thread-97
+Releasing connection by thread: pool-1-thread-98
+Connection released by thread: pool-1-thread-98
+Seat: 18D booked for user 98:Destiny Cox by thread: pool-1-thread-98
+Releasing connection by thread: pool-1-thread-106
+Connection released by thread: pool-1-thread-106
+Seat: 18A booked for user 106:Maria Howard by thread: pool-1-thread-106
+Releasing connection by thread: pool-1-thread-82
+Connection released by thread: pool-1-thread-82
+Seat: 17C booked for user 82:Savannah James by thread: pool-1-thread-82
+Getting connection by thread: pool-1-thread-114 with timeout: 1000 ms  free connections: 86
+Connection acquired by thread: pool-1-thread-114
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-93
+Connection released by thread: pool-1-thread-93
+Seat: 15C booked for user 93:Bryan King by thread: pool-1-thread-93
+Releasing connection by thread: pool-1-thread-100
+Connection released by thread: pool-1-thread-100
+Seat: 15E booked for user 100:Amanda Martinez by thread: pool-1-thread-100
+Releasing connection by thread: pool-1-thread-94
+Connection released by thread: pool-1-thread-94
+Seat: 15D booked for user 94:Hailey Watson by thread: pool-1-thread-94
+Getting connection by thread: pool-1-thread-119 with timeout: 1000 ms  free connections: 88
+Connection acquired by thread: pool-1-thread-119
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-99
+Connection released by thread: pool-1-thread-99
+Seat: 18B booked for user 99:Jordan Hughes by thread: pool-1-thread-99
+Releasing connection by thread: pool-1-thread-107
+Connection released by thread: pool-1-thread-107
+Seat: 18E booked for user 107:Jack Kelly by thread: pool-1-thread-107
+Getting connection by thread: pool-1-thread-118 with timeout: 1000 ms  free connections: 89
+Connection acquired by thread: pool-1-thread-118
+Connection obtained from pool: mysql
+Getting connection by thread: pool-1-thread-117 with timeout: 1000 ms  free connections: 88
+Connection acquired by thread: pool-1-thread-117
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-110
+Connection released by thread: pool-1-thread-110
+Seat: 18F booked for user 110:Maya Murphy by thread: pool-1-thread-110
+Getting connection by thread: pool-1-thread-116 with timeout: 1000 ms  free connections: 88
+Connection acquired by thread: pool-1-thread-116
+Connection obtained from pool: mysql
+Releasing connection by thread: pool-1-thread-109
+Connection released by thread: pool-1-thread-109
+Seat: 19B booked for user 109:Dylan Price by thread: pool-1-thread-109
+Releasing connection by thread: pool-1-thread-113
+Connection released by thread: pool-1-thread-113
+Seat: 19C booked for user 113:Owen Cooper by thread: pool-1-thread-113
+Releasing connection by thread: pool-1-thread-108
+Connection released by thread: pool-1-thread-108
+Seat: 19A booked for user 108:Riley Wood by thread: pool-1-thread-108
+Releasing connection by thread: pool-1-thread-112
+Connection released by thread: pool-1-thread-112
+Seat: 19D booked for user 112:Vanessa Thomas by thread: pool-1-thread-112
+Releasing connection by thread: pool-1-thread-115
+Connection released by thread: pool-1-thread-115
+Releasing connection by thread: pool-1-thread-111
+Connection released by thread: pool-1-thread-111
+Seat: 19F booked for user 115:Tristan Ward by thread: pool-1-thread-115
+Seat: 19E booked for user 111:Brayden Nelson by thread: pool-1-thread-111
+Releasing connection by thread: pool-1-thread-120
+Connection released by thread: pool-1-thread-120
+Seat: 20A booked for user 120:Leah Foster by thread: pool-1-thread-120
+Releasing connection by thread: pool-1-thread-119
+Connection released by thread: pool-1-thread-119
+Seat: 20C booked for user 119:Colton Gray by thread: pool-1-thread-119
+Releasing connection by thread: pool-1-thread-118
+Connection released by thread: pool-1-thread-118
+Seat: 20E booked for user 118:Allison Brooks by thread: pool-1-thread-118
+Releasing connection by thread: pool-1-thread-114
+Connection released by thread: pool-1-thread-114
+Seat: 20B booked for user 114:Kylie Jackson by thread: pool-1-thread-114
+Releasing connection by thread: pool-1-thread-117
+Connection released by thread: pool-1-thread-117
+Seat: 20D booked for user 117:Dominic Martinez by thread: pool-1-thread-117
+Releasing connection by thread: pool-1-thread-116
+Connection released by thread: pool-1-thread-116
+Seat: 20F booked for user 116:Faith Morgan by thread: pool-1-thread-116
+Processing completed in 70 ms
+Seat assignments:
+Getting connection by thread: main with timeout: 1000 ms  free connections: 99
+Connection acquired by thread: main
+Connection obtained from pool: mysql
+Releasing connection by thread: main
+Connection released by thread: main
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+Concurrent check-in process completed
